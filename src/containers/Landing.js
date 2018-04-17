@@ -1,6 +1,5 @@
 import React, { Component } from 'react'
 import background from '../assets/Landing.jpg'
-import { Image } from 'semantic-ui-react'
 
 
 
@@ -9,10 +8,10 @@ export default class About extends React.Component {
 
   render(){
     return(
-      <div>
-        <span>
-          <Image fluid src={background}/>
-        </span>
+      <div class="landing">
+        <h1 class="title">PJ Frias</h1>
+        <h3 class="title">Full Stack Web Developer</h3>
+        <hr/>
       </div>
     )
   }

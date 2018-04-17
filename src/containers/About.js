@@ -1,6 +1,4 @@
 import React, { Component } from 'react'
-import AboutHeader from '.././components/AboutHeader'
-import { Image } from 'semantic-ui-react'
 
 
 
@@ -10,7 +8,9 @@ export default class About extends React.Component {
   render(){
     return(
       <div>
-        <AboutHeader />
+        <h1>About PJ</h1>
+        <h3>Skills</h3>
+        <hr/>
       </div>
     )
   }
