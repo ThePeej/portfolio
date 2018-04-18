@@ -1,1 +1,0 @@
-For projects, have modal pop out that shows GIF of project in use
