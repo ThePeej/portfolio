@@ -2,6 +2,7 @@ import React from "react";
 import { FaCloudDownload } from "react-icons/lib/fa";
 
 import profilePic from "../assets/images/profilepic.jpg";
+import resume from "../assets/resume.pdf";
 
 const About = () => (
   <section id="about">
@@ -25,23 +26,22 @@ const About = () => (
         </p>
         <div className="row">
           <div className="columns contact-details">
-            <h2>Contact Details</h2>
+            <h2>Let's create something!</h2>
             <p className="address">
-              <span>Jonathan Doe</span>
+              <span>PJ Frias</span>
               <br />
               <span>
-                1600 Amphitheatre Parkway
-                <br /> Mountain View, CA 94043 US
+                Baltimore, MD
               </span>
               <br />
               <span>(123)456-7890</span>
               <br />
-              <span>anyone@website.com</span>
+              <span>Philip.Frias@Gmail.com</span>
             </p>
           </div>
           <div className="columns download">
             <p>
-              <a href="#" className="button">
+              <a href={resume} className="button">
                 <FaCloudDownload /> Download Resume
               </a>
             </p>
