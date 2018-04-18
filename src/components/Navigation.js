@@ -17,15 +17,15 @@ const Navigation = () => (
         </a>
       </li>
 
-      {/* <li>
-        <a className="smoothscroll" href="#resume">
-          Resume
+      <li>
+        <a className="smoothscroll" href="#skills">
+          Skills
         </a>
-      </li> */}
+      </li>
 
       <li>
         <a className="smoothscroll" href="#portfolio">
-          Works
+          Portfolio
         </a>
       </li>
 
