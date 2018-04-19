@@ -6,6 +6,7 @@ const Footer = () => (
   <footer id="footer">
     <div className="row">
       <div className="twelve columns">
+      
         <SocialLinks />
 
         <ul className="copyright">

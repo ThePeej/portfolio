@@ -8,6 +8,7 @@ import About from "../components/About";
 import Skills from "../components/Skills";
 import Portfolio from "../components/Portfolio";
 import Testimonials from "../components/Testimonials";
+import Contact from "../components/Contact";
 import Footer from "../components/Footer";
 
 const IndexPage = () => (
@@ -17,6 +18,7 @@ const IndexPage = () => (
     <Skills />
     <Portfolio />
     {/* <Testimonials /> */}
+    <Contact />
     <Footer />
   </div>
 );
