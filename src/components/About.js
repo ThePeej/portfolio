@@ -13,32 +13,15 @@ const About = () => (
       <div className="nine columns main-col">
         <h2>About Me</h2>
         <p>
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae
-          ab illo inventore veritatis et quasi architecto beatae vitae dicta
-          sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit
-          aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos
-          qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui
-          dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed
-          quia non numquam eius modi tempora incidunt ut labore et dolore magnam
-          aliquam quaerat voluptatem. Ut enim ad minima veniam, quis nostrum
-          exercitationem ullam corporis suscipit laboriosam.
+          Whether it be through programming, photography, woodworking or cooking, I love to make things. Being able to make something that someone can use, be that myself or someone else, is one of the most satisfying feelings for me. With everything I build, I know it carries my reputation with it, so I always put my best foot forward. 
+        </p>
+        <p>
+          Full stack web developer with a knack for solving problems, delivering elegant solutions, and building software that drives change. Experience in Ruby on Rails, Javascript frameworks (Node.js / Express, React.js), databases (sqlite3, MongoDB), and general web-development (HTML, CSS, JQuery, Bootstrap). I bring strong skills in project management, team collaboration, and customer satisfaction that help industry leaders improve productivity and increase sales.
+        </p>
+        <p>
+          I’ve built social platforms focused on community-empowerment, architectured an ecommerce webapp, and developed software to streamline processes and improve efficiency. I’m passionate about building up communities and committed to strengthening Baltimore’s software developer culture.
         </p>
         <div className="row">
-          <div className="columns contact-details">
-            <h2>Let's create something!</h2>
-            <p className="address">
-              <span>PJ Frias</span>
-              <br />
-              <span>
-                Baltimore, MD
-              </span>
-              <br />
-              <span>(123)456-7890</span>
-              <br />
-              <span>Philip.Frias@Gmail.com</span>
-            </p>
-          </div>
           <div className="columns download">
             <p>
               <a href={resume} className="button">

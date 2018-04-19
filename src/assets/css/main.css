@@ -840,7 +840,6 @@ header {
   height: 900px;
   min-height: 500px;
   width: 100%;
-  /* background: #161415 url(../images/header-background.jpg) no-repeat top center; */
   background: #161415 url(../images/header-background.jpg) no-repeat center center;
   background-size: cover !important;
   -webkit-background-size: cover !important;
@@ -955,13 +954,10 @@ header .banner .button {
   color: #2A515B;
   background: #E5EAE0;
   font: 16px/1.1em "opensans-bold", sans-serif;
-  /* border: 1px solid rgba(0, 0, 0, 0.4); */
   box-shadow: 0px 3px 3px rgba(0, 0, 0, 0.4);
   border-radius: 20px
 }
 header .banner .button:hover {
-  /* background: #83B5B7; */
-  /* color: #fcf9ee; */
   box-shadow: 0px 1.5px 1.5px rgba(0, 0, 0, 0.4);
 }
 header .banner .button i {
@@ -2162,7 +2158,7 @@ footer .social li:first-child {
    width: 48px;
   height: 48px;
   text-align: left;
-  background-color: #CC5200;
+  background-color: #253E41;
   position: relative;
     border: none;
     float: right;
@@ -2240,6 +2236,9 @@ footer .social li:first-child {
  header .banner {
     padding-bottom: 12px;
     padding-top: 6px;
+ }
+ header .banner-text{
+   margin-bottom: 55%;
  }
  header .banner-text h1 { font: 68px/1.1em 'opensans-bold', sans-serif; }
  header .banner-text h3 {
@@ -2334,8 +2333,26 @@ footer .social li:first-child {
 
  /* contact Section
  ----------------------------------------------------------------------- */
- #contact { padding-bottom: 66px; }
+ #contact { 
+   padding-bottom: 66px; 
+   background: #ECECEC;
+  }
  #contact .section-head { margin-bottom: 12px; }
+
+ #contact .contact-text h1{
+   font: 20px/30px "opensans-bold", sans-serif;
+ }
+
+ #contact .contact-text h2{
+   font: 14px/30px "opensans-bold", sans-serif;
+ }
+
+ #contact .contact-text h3{
+   font: 10px/20px "opensans-bold", sans-serif;
+ }
+
+ 
+
  #contact .section-head h1 {
     font: 16px/24px 'opensans-bold', sans-serif;
     text-align: center;
