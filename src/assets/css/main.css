@@ -868,41 +868,40 @@ header .banner-text {
   width: 100%;
 }
 header .banner-text h1 {
-  font: 90px/1.1em "opensans-bold", sans-serif;
+  font: 90px/1em "opensans-bold", sans-serif;
   color: #fff;
   letter-spacing: -2px;
   margin: 0 auto 18px auto;
-  text-shadow: 0px 1px 3px rgba(0, 0, 0, 0.8);
+  text-shadow: 0px 2px 3px rgba(0, 0, 0, 0.8);
 }
 
 header .banner-text h2 {
-  font: 48px/1.1em "opensans-bold", sans-serif;
+  font: 56px/1em "opensans-bold", sans-serif;
   color: #fff;
   letter-spacing: -2px;
   margin: 0 auto 18px auto;
-  text-shadow: 0px 1px 2px rgba(0, 0, 0, 0.8);
+  text-shadow: 0px 2px 2px rgba(0, 0, 0, 0.8);
 }
 
 header .banner-text h2 span,
 header .banner-text h2 a {
   font-family: "permanent marker";
   color: #f8df52;
-  text-shadow: 0px 1.5px 2px rgba(0, 0, 0, 0.8);
-  
+  text-shadow: 0px 3px 3px rgba(0, 0, 0, 0.8);
 }
 
 header .banner-text h3 {
   font: 20px/1.1em "opensans-light", sans-serif;
-  color: #fff;
+  color: #E5EAE0;
   margin: 0 auto;
   width: 70%;
   letter-spacing: .5px;
-  text-shadow: 0px 1px 2px rgba(0, 0, 0, 0.5);
+  text-shadow: 0px .5px .5px rgba(0, 0, 0, 0.6);
 }
 
 header .banner-text hr {
   width: 60%;
-  margin: 18px auto 24px auto;
+  margin: 10px auto 24px auto;
   border-color: #2f2d2e;
   border-color: rgba(150, 150, 150, 0.1);
 }
@@ -920,7 +919,7 @@ header .social li {
   padding: 0;
 }
 header .social li a {
-  color: #fff;
+  color: #E5EAE0;
 }
 header .social li a:hover {
   color: #f8df52;
@@ -929,7 +928,7 @@ header .social li a:hover {
 /* scrolldown link */
 header .scrolldown a {
   position: absolute;
-  bottom: 30px;
+  bottom: 20px;
   left: 50%;
   margin-left: -29px;
   color: #fff;
@@ -947,7 +946,27 @@ header .scrolldown a {
   transition: all 0.3s ease-in-out;
 }
 header .scrolldown a:hover {
-  color: #11abb0;
+  /* color: #11abb0; */
+  color: #83B5B7;
+}
+
+header .banner .button {
+  margin-top: 20px;
+  color: #2A515B;
+  background: #E5EAE0;
+  font: 16px/1.1em "opensans-bold", sans-serif;
+  /* border: 1px solid rgba(0, 0, 0, 0.4); */
+  box-shadow: 0px 3px 3px rgba(0, 0, 0, 0.4);
+  border-radius: 20px
+}
+header .banner .button:hover {
+  /* background: #83B5B7; */
+  /* color: #fcf9ee; */
+  box-shadow: 0px 1.5px 1.5px rgba(0, 0, 0, 0.4);
+}
+header .banner .button i {
+  margin-right: 15px;
+  font-size: 20px;
 }
 
 /* primary navigation
@@ -1787,11 +1806,11 @@ call-to-action .button {
 }
 
 #contact h1 {
-  font: 30px/36px "opensans-bold", sans-serif;
+  font: 36px/30px "opensans-bold", sans-serif;
   text-transform: uppercase;
   letter-spacing: 3px;
-  color: #ebeeee;
-  margin-bottom: 2px;
+  margin-top: 40px;
+  margin-bottom: 40px;
   color: #11abb0;
 }
 #contact h1 span {
@@ -1809,8 +1828,16 @@ call-to-action .button {
 } */
 
 #contact h2 {
-  font: 18px/24px "opensans-bold", sans-serif;
-  /* text-transform: uppercase; */
+  font: 24px/24px "opensans-bold", sans-serif;
+  text-transform: uppercase;
+  letter-spacing: 3px;
+  color: #525252;
+  margin-bottom: 10px;
+}
+
+#contact h3 {
+  font: 14px/20px "opensans-bold", sans-serif;
+  text-transform: uppercase;
   letter-spacing: 3px;
   color: #525252;
   margin-bottom: 6px;
@@ -1818,7 +1845,7 @@ call-to-action .button {
 
 #contact h4 {
   font: 16px/24px "opensans-bold", sans-serif;
-  color: #ebeeee;
+  color: #525252;
   margin-bottom: 6px;
 }
 #contact p.lead {

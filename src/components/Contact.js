@@ -6,13 +6,15 @@ const Contact = () => (
     <div id="contact">
       <div className="contact-text">
 
-        <h2>Let's build something amazing</h2>
-        {/* <h2>I'd love to hear from you</h2> */}
-        {/* <h2>Contact Me</h2> */}
-        {/* <p className="lead">Let's build something together</p>
-        <p className="lead">I'd love to hear from you</p> */}
-        <br/>
+        <h1>Insert my picture?</h1>
+
+        <h2>Get in touch with me!</h2>
+        <h3>I'd love to hear about your ideas</h3>
+        <h3>and how I can help out</h3>
+        
         <h1>Philip.Frias@Gmail.com</h1>
+
+        
       </div>
 
     </div>

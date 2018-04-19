@@ -25,7 +25,7 @@ const Navigation = () => (
 
       <li>
         <a className="smoothscroll" href="#portfolio">
-          Portfolio
+          Work
         </a>
       </li>
 
