@@ -840,7 +840,8 @@ header {
   height: 900px;
   min-height: 500px;
   width: 100%;
-  background: #161415 url(../images/header-background.jpg) no-repeat top center;
+  /* background: #161415 url(../images/header-background.jpg) no-repeat top center; */
+  background: #161415 url(../images/header-background.jpg) no-repeat center center;
   background-size: cover !important;
   -webkit-background-size: cover !important;
   text-align: center;
@@ -859,7 +860,7 @@ header .banner {
   vertical-align: middle;
   margin: 0 auto;
   width: 85%;
-  padding-bottom: 30px;
+  padding-bottom: 10%;
   text-align: center;
 }
 
@@ -1730,10 +1731,10 @@ call-to-action .button {
   padding-top: 96px;
   padding-bottom: 102px;
   color: #636363;
-  /* text-align: center; */
+  text-align: center;
   position: relative;
-  height: 850px;
-  min-height: 850px;
+  height: 700px;
+  min-height: 700px;
   width: 100%;
   background: #161415 url(../images/contact-background.jpg) no-repeat center right;
   background-size: cover !important;
@@ -1741,12 +1742,19 @@ call-to-action .button {
   overflow: hidden;
 }
 
+#contact:before {
+  content: "";
+  display: inline-block;
+  vertical-align: middle;
+  height: 100%;
+}
+
 #contact .contact-text {
-  /* display: inline-block; */
+  display: inline-block;
   vertical-align: middle;
   margin: 0 auto;
-  /* width: 85%; */
-  /* padding-bottom: 30px; */
+  width: 85%;
+  padding-bottom: 30px;
   text-align: center;
 }
 
