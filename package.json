@@ -23,7 +23,13 @@
     "typography-theme-bootstrap": "0.16.7"
   },
   "keywords": [
-    "gatsby", "web developer", "full stack", "javascript", "Ruby on Rails", "React", "Node"
+    "gatsby",
+    "web developer",
+    "full stack",
+    "javascript",
+    "Ruby on Rails",
+    "React",
+    "Node"
   ],
   "license": "MIT",
   "main": "n/a",

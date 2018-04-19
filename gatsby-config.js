@@ -2,7 +2,7 @@ module.exports = {
   siteMetadata: {
     title: "PJ Frias - Web Developer",
     author: "PJ Frias",
-    description: "The online portfolio of PJ Frias"
+    description: "The portfolio of PJ Frias"
   },
   pathPrefix: "/",
   plugins: [
@@ -22,7 +22,7 @@ module.exports = {
     {
       resolve: `gatsby-plugin-google-fonts`,
       options: {
-        fonts: [`librebaskerville`, `open sans`]
+        fonts: [`librebaskerville`, `open sans`, `permanent marker`]
       }
     },
     {
