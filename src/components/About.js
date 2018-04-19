@@ -8,16 +8,14 @@ const About = () => (
   <section id="about">
     <div className="row">
       <div className="three columns">
-        <img className="profile-pic" src={profilePic} alt="" />
+        <img className="profile-pic" src={profilePic} alt="PJ Frias" />
       </div>
       <div className="nine columns main-col">
-        <h2>About Me</h2>
+        <h2>A little bit about me</h2>
         <p>
-          Whether it be through programming, photography, woodworking or cooking, I love to make things. Being able to make something that someone can use, be that myself or someone else, is one of the most satisfying feelings for me. With everything I build, I know it carries my reputation with it, so I always put my best foot forward. 
+          <span>I'm PJ, and I <strong>love</strong> to build and create things.</span> Whether it be through programming, woodworking, photography, or cooking, the combination of creative problem solving and technical challenge is what I live for. The satisfaction of using something I make, or better yet, knowing someone else will be able to use and enjoy what I've built, is what fuels me to challenge myself and improve my skills in everything I do.
         </p>
-        <p>
-          Full stack web developer with a knack for solving problems, delivering elegant solutions, and building software that drives change. Experience in Ruby on Rails, Javascript frameworks (Node.js / Express, React.js), databases (sqlite3, MongoDB), and general web-development (HTML, CSS, JQuery, Bootstrap). I bring strong skills in project management, team collaboration, and customer satisfaction that help industry leaders improve productivity and increase sales.
-        </p>
+
         <p>
           I’ve built social platforms focused on community-empowerment, architectured an ecommerce webapp, and developed software to streamline processes and improve efficiency. I’m passionate about building up communities and committed to strengthening Baltimore’s software developer culture.
         </p>

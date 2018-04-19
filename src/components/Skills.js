@@ -8,6 +8,9 @@ const Skills = () => (
   <section id="skills">
     {/* <Education />
     <Work /> */}
+    <div className="row">
+      
+    </div>
     <Skillbars />
   </section>
 );

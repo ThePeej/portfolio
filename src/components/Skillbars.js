@@ -10,12 +10,7 @@ const Skills = () => (
 
     <div className="nine columns main-col">
       <p>
-        Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-        accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab
-        illo inventore veritatis et quasi architecto beatae vitae dicta sunt
-        explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut
-        odit aut fugit, sed quia consequuntur magni dolores eos qui ratione
-        voluptatem sequi nesciunt.
+        Full stack web developer with a knack for solving problems, delivering elegant solutions, and building software that drives change. Experience in Ruby on Rails, Javascript frameworks (Node.js / Express, React.js), databases (sqlite3, MongoDB), and general web-development (HTML, CSS, JQuery, Bootstrap). I bring strong skills in project management, team collaboration, and customer satisfaction that help industry leaders improve productivity and increase sales.
       </p>
 
       <div className="bars">
