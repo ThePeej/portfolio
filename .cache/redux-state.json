@@ -8,7 +8,7 @@
       "component": "/home/pj/Documents/Dev/Portfolio/portfolio/.cache/dev-404-page.js",
       "componentChunkName": "component---cache-dev-404-page-js",
       "context": {},
-      "updatedAt": 1524157500210,
+      "updatedAt": 1524163552403,
       "pluginCreator___NODE": "Plugin dev-404-page",
       "pluginCreatorId": "Plugin dev-404-page",
       "componentPath": "/home/pj/Documents/Dev/Portfolio/portfolio/.cache/dev-404-page.js",
@@ -17,7 +17,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "434f68b409aed9a6ade83ea82d880217",
+        "contentDigest": "ee45be90bbf741a70852601eff9cb47f",
         "owner": "internal-data-bridge"
       }
     },
@@ -391,8 +391,7 @@
         "fonts": [
           "librebaskerville",
           "open sans",
-          "permanent marker",
-          "pacifico"
+          "permanent marker"
         ]
       },
       "nodeAPIs": [],
@@ -422,7 +421,7 @@
       "parent": "SOURCE",
       "children": [],
       "internal": {
-        "contentDigest": "1d896f220ae73e66a95c69b5cd76976a",
+        "contentDigest": "58f39a2de3c60cc8d91c5fcde4c3df36",
         "type": "SitePlugin",
         "owner": "internal-data-bridge"
       }
@@ -1037,7 +1036,7 @@
       "resolve": "/home/pj/Documents/Dev/Portfolio/portfolio",
       "id": "Plugin default-site-plugin",
       "name": "default-site-plugin",
-      "version": "011526b65ce47f249545c7012ebebca2",
+      "version": "6523a9164c242ad10334f504ff6ab51e",
       "pluginOptions": {
         "plugins": []
       },
@@ -1146,7 +1145,7 @@
       "parent": "SOURCE",
       "children": [],
       "internal": {
-        "contentDigest": "6c391ce328bb5a39ca40d8187a53949e",
+        "contentDigest": "3e4d25c7bf5224585c241bc3e25f5c2e",
         "type": "SitePlugin",
         "owner": "internal-data-bridge"
       }
@@ -1159,13 +1158,14 @@
       },
       "port": "8000",
       "host": "localhost",
-      "pathPrefix": "/",
-      "buildTime": "2018-04-19T16:51:13.576Z",
+      "pathPrefix": "",
+      "polyfill": true,
+      "buildTime": "2018-04-19T18:45:26.787Z",
       "id": "Site",
       "parent": "SOURCE",
       "children": [],
       "internal": {
-        "contentDigest": "8dacd5019cd8d9e5ac449899e0a2e687",
+        "contentDigest": "f066db3fd299de56f81b590d3fa4ee44",
         "type": "Site",
         "owner": "internal-data-bridge"
       }
@@ -1175,7 +1175,7 @@
       "children": [],
       "parent": "___SOURCE___",
       "internal": {
-        "contentDigest": "fa3dd399ecf392eddcc545687a61a274",
+        "contentDigest": "0f1deeaa5a3d72fc743612ca4da7d7a4",
         "type": "Directory",
         "owner": "gatsby-source-filesystem"
       },
@@ -1185,10 +1185,10 @@
       "extension": "",
       "size": 4096,
       "prettySize": "4.1 kB",
-      "modifiedTime": "2018-04-19T13:18:22.694Z",
-      "accessTime": "2018-04-19T13:18:22.714Z",
-      "changeTime": "2018-04-19T13:18:22.694Z",
-      "birthTime": "2018-04-19T13:18:22.694Z",
+      "modifiedTime": "2018-04-19T18:37:59.647Z",
+      "accessTime": "2018-04-19T18:38:03.951Z",
+      "changeTime": "2018-04-19T18:37:59.647Z",
+      "birthTime": "2018-04-19T18:37:59.647Z",
       "root": "/",
       "dir": "/home/pj/Documents/Dev/Portfolio/portfolio/src/assets",
       "base": "images",
@@ -1204,21 +1204,21 @@
       "blksize": 4096,
       "ino": 8077604,
       "blocks": 8,
-      "atimeMs": 1524143902714.2646,
-      "mtimeMs": 1524143902694.2646,
-      "ctimeMs": 1524143902694.2646,
-      "birthtimeMs": 1524143902694.2646,
-      "atime": "2018-04-19T13:18:22.714Z",
-      "mtime": "2018-04-19T13:18:22.694Z",
-      "ctime": "2018-04-19T13:18:22.694Z",
-      "birthtime": "2018-04-19T13:18:22.694Z"
+      "atimeMs": 1524163083950.8894,
+      "mtimeMs": 1524163079646.91,
+      "ctimeMs": 1524163079646.91,
+      "birthtimeMs": 1524163079646.91,
+      "atime": "2018-04-19T18:38:03.951Z",
+      "mtime": "2018-04-19T18:37:59.647Z",
+      "ctime": "2018-04-19T18:37:59.647Z",
+      "birthtime": "2018-04-19T18:37:59.647Z"
     },
     "/home/pj/Documents/Dev/Portfolio/portfolio/src/assets/images/portfolio absPath of file": {
       "id": "/home/pj/Documents/Dev/Portfolio/portfolio/src/assets/images/portfolio absPath of file",
       "children": [],
       "parent": "___SOURCE___",
       "internal": {
-        "contentDigest": "2a16b1b7f2736aa01a26b6c86800f690",
+        "contentDigest": "5ff1ef5c5e6c995cd7fd085555c7c3ec",
         "type": "Directory",
         "owner": "gatsby-source-filesystem"
       },
@@ -1229,7 +1229,7 @@
       "size": 4096,
       "prettySize": "4.1 kB",
       "modifiedTime": "2018-04-18T17:34:19.903Z",
-      "accessTime": "2018-04-18T18:31:07.037Z",
+      "accessTime": "2018-04-19T18:37:39.835Z",
       "changeTime": "2018-04-18T18:30:10.042Z",
       "birthTime": "2018-04-18T18:30:10.042Z",
       "root": "/",
@@ -1247,11 +1247,11 @@
       "blksize": 4096,
       "ino": 8077605,
       "blocks": 8,
-      "atimeMs": 1524076267037.154,
+      "atimeMs": 1524163059835.0054,
       "mtimeMs": 1524072859903.119,
       "ctimeMs": 1524076210041.542,
       "birthtimeMs": 1524076210041.542,
-      "atime": "2018-04-18T18:31:07.037Z",
+      "atime": "2018-04-19T18:37:39.835Z",
       "mtime": "2018-04-18T17:34:19.903Z",
       "ctime": "2018-04-18T18:30:10.042Z",
       "birthtime": "2018-04-18T18:30:10.042Z"
@@ -1261,7 +1261,7 @@
       "children": [],
       "parent": "___SOURCE___",
       "internal": {
-        "contentDigest": "3fa7a5deb1670d91822276fbf31520e9",
+        "contentDigest": "c14e2223bb3c8a8e75360f9b5603cc08",
         "type": "Directory",
         "owner": "gatsby-source-filesystem"
       },
@@ -1272,7 +1272,7 @@
       "size": 4096,
       "prettySize": "4.1 kB",
       "modifiedTime": "2018-04-18T17:34:19.899Z",
-      "accessTime": "2018-04-18T18:30:10.998Z",
+      "accessTime": "2018-04-19T18:39:33.530Z",
       "changeTime": "2018-04-18T18:30:10.042Z",
       "birthTime": "2018-04-18T18:30:10.042Z",
       "root": "/",
@@ -1290,42 +1290,42 @@
       "blksize": 4096,
       "ino": 8077606,
       "blocks": 8,
-      "atimeMs": 1524076210997.542,
+      "atimeMs": 1524163173530.4622,
       "mtimeMs": 1524072859899.12,
       "ctimeMs": 1524076210041.542,
       "birthtimeMs": 1524076210041.542,
-      "atime": "2018-04-18T18:30:10.998Z",
+      "atime": "2018-04-19T18:39:33.530Z",
       "mtime": "2018-04-18T17:34:19.899Z",
       "ctime": "2018-04-18T18:30:10.042Z",
       "birthtime": "2018-04-18T18:30:10.042Z"
     },
-    "/home/pj/Documents/Dev/Portfolio/portfolio/src/assets/images/profilepic.jpg absPath of file": {
-      "id": "/home/pj/Documents/Dev/Portfolio/portfolio/src/assets/images/profilepic.jpg absPath of file",
+    "/home/pj/Documents/Dev/Portfolio/portfolio/src/assets/images/overlay-bg.png absPath of file": {
+      "id": "/home/pj/Documents/Dev/Portfolio/portfolio/src/assets/images/overlay-bg.png absPath of file",
       "children": [
-        "/home/pj/Documents/Dev/Portfolio/portfolio/src/assets/images/profilepic.jpg absPath of file >> ImageSharp"
+        "/home/pj/Documents/Dev/Portfolio/portfolio/src/assets/images/overlay-bg.png absPath of file >> ImageSharp"
       ],
       "parent": "___SOURCE___",
       "internal": {
-        "contentDigest": "7e773edecdc38561e4d4bcd2606811f3",
-        "mediaType": "image/jpeg",
+        "contentDigest": "9176109b8b53b0cd9be8b698b720be5e",
+        "mediaType": "image/png",
         "type": "File",
         "owner": "gatsby-source-filesystem"
       },
       "sourceInstanceName": "images",
-      "absolutePath": "/home/pj/Documents/Dev/Portfolio/portfolio/src/assets/images/profilepic.jpg",
-      "relativePath": "profilepic.jpg",
-      "extension": "jpg",
-      "size": 6766,
-      "prettySize": "6.77 kB",
-      "modifiedTime": "2018-04-18T17:34:19.903Z",
-      "accessTime": "2018-04-18T18:41:15.441Z",
-      "changeTime": "2018-04-18T18:30:09.878Z",
-      "birthTime": "2018-04-18T18:30:09.878Z",
+      "absolutePath": "/home/pj/Documents/Dev/Portfolio/portfolio/src/assets/images/overlay-bg.png",
+      "relativePath": "overlay-bg.png",
+      "extension": "png",
+      "size": 935,
+      "prettySize": "935 B",
+      "modifiedTime": "2018-04-18T17:34:19.895Z",
+      "accessTime": "2018-04-18T18:41:15.433Z",
+      "changeTime": "2018-04-18T18:30:09.858Z",
+      "birthTime": "2018-04-18T18:30:09.858Z",
       "root": "/",
       "dir": "/home/pj/Documents/Dev/Portfolio/portfolio/src/assets/images",
-      "base": "profilepic.jpg",
-      "ext": ".jpg",
-      "name": "profilepic",
+      "base": "overlay-bg.png",
+      "ext": ".png",
+      "name": "overlay-bg",
       "relativeDirectory": "",
       "dev": 2058,
       "mode": 33277,
@@ -1334,16 +1334,16 @@
       "gid": 1000,
       "rdev": 0,
       "blksize": 4096,
-      "ino": 8073882,
-      "blocks": 16,
-      "atimeMs": 1524076875441.475,
-      "mtimeMs": 1524072859903.119,
-      "ctimeMs": 1524076209877.5432,
-      "birthtimeMs": 1524076209877.5432,
-      "atime": "2018-04-18T18:41:15.441Z",
-      "mtime": "2018-04-18T17:34:19.903Z",
-      "ctime": "2018-04-18T18:30:09.878Z",
-      "birthtime": "2018-04-18T18:30:09.878Z"
+      "ino": 8073880,
+      "blocks": 8,
+      "atimeMs": 1524076875433.475,
+      "mtimeMs": 1524072859895.12,
+      "ctimeMs": 1524076209857.5432,
+      "birthtimeMs": 1524076209857.5432,
+      "atime": "2018-04-18T18:41:15.433Z",
+      "mtime": "2018-04-18T17:34:19.895Z",
+      "ctime": "2018-04-18T18:30:09.858Z",
+      "birthtime": "2018-04-18T18:30:09.858Z"
     },
     "/home/pj/Documents/Dev/Portfolio/portfolio/src/assets/images/overlay-zoom.png absPath of file": {
       "id": "/home/pj/Documents/Dev/Portfolio/portfolio/src/assets/images/overlay-zoom.png absPath of file",
@@ -1391,51 +1391,51 @@
       "ctime": "2018-04-18T18:30:09.874Z",
       "birthtime": "2018-04-18T18:30:09.874Z"
     },
-    "/home/pj/Documents/Dev/Portfolio/portfolio/src/assets/images/overlay-bg.png absPath of file": {
-      "id": "/home/pj/Documents/Dev/Portfolio/portfolio/src/assets/images/overlay-bg.png absPath of file",
+    "/home/pj/Documents/Dev/Portfolio/portfolio/src/assets/images/profilepic.jpg absPath of file": {
+      "id": "/home/pj/Documents/Dev/Portfolio/portfolio/src/assets/images/profilepic.jpg absPath of file",
       "children": [
-        "/home/pj/Documents/Dev/Portfolio/portfolio/src/assets/images/overlay-bg.png absPath of file >> ImageSharp"
+        "/home/pj/Documents/Dev/Portfolio/portfolio/src/assets/images/profilepic.jpg absPath of file >> ImageSharp"
       ],
       "parent": "___SOURCE___",
       "internal": {
-        "contentDigest": "9176109b8b53b0cd9be8b698b720be5e",
-        "mediaType": "image/png",
+        "contentDigest": "85d6a0cda922164e542c342d6e321144",
+        "mediaType": "image/jpeg",
         "type": "File",
         "owner": "gatsby-source-filesystem"
       },
       "sourceInstanceName": "images",
-      "absolutePath": "/home/pj/Documents/Dev/Portfolio/portfolio/src/assets/images/overlay-bg.png",
-      "relativePath": "overlay-bg.png",
-      "extension": "png",
-      "size": 935,
-      "prettySize": "935 B",
-      "modifiedTime": "2018-04-18T17:34:19.895Z",
-      "accessTime": "2018-04-18T18:41:15.433Z",
-      "changeTime": "2018-04-18T18:30:09.858Z",
-      "birthTime": "2018-04-18T18:30:09.858Z",
+      "absolutePath": "/home/pj/Documents/Dev/Portfolio/portfolio/src/assets/images/profilepic.jpg",
+      "relativePath": "profilepic.jpg",
+      "extension": "jpg",
+      "size": 58592,
+      "prettySize": "58.6 kB",
+      "modifiedTime": "2018-04-19T18:45:18.085Z",
+      "accessTime": "2018-04-19T18:45:18.089Z",
+      "changeTime": "2018-04-19T18:45:18.085Z",
+      "birthTime": "2018-04-19T18:45:18.085Z",
       "root": "/",
       "dir": "/home/pj/Documents/Dev/Portfolio/portfolio/src/assets/images",
-      "base": "overlay-bg.png",
-      "ext": ".png",
-      "name": "overlay-bg",
+      "base": "profilepic.jpg",
+      "ext": ".jpg",
+      "name": "profilepic",
       "relativeDirectory": "",
       "dev": 2058,
-      "mode": 33277,
+      "mode": 33204,
       "nlink": 1,
       "uid": 1000,
       "gid": 1000,
       "rdev": 0,
       "blksize": 4096,
-      "ino": 8073880,
-      "blocks": 8,
-      "atimeMs": 1524076875433.475,
-      "mtimeMs": 1524072859895.12,
-      "ctimeMs": 1524076209857.5432,
-      "birthtimeMs": 1524076209857.5432,
-      "atime": "2018-04-18T18:41:15.433Z",
-      "mtime": "2018-04-18T17:34:19.895Z",
-      "ctime": "2018-04-18T18:30:09.858Z",
-      "birthtime": "2018-04-18T18:30:09.858Z"
+      "ino": 8050095,
+      "blocks": 128,
+      "atimeMs": 1524163518088.8647,
+      "mtimeMs": 1524163518084.8647,
+      "ctimeMs": 1524163518084.8647,
+      "birthtimeMs": 1524163518084.8647,
+      "atime": "2018-04-19T18:45:18.089Z",
+      "mtime": "2018-04-19T18:45:18.085Z",
+      "ctime": "2018-04-19T18:45:18.085Z",
+      "birthtime": "2018-04-19T18:45:18.085Z"
     },
     "/home/pj/Documents/Dev/Portfolio/portfolio/src/assets/images/sample-image.jpg absPath of file": {
       "id": "/home/pj/Documents/Dev/Portfolio/portfolio/src/assets/images/sample-image.jpg absPath of file",
@@ -1529,102 +1529,6 @@
       "ctime": "2018-04-18T18:30:10.002Z",
       "birthtime": "2018-04-18T18:30:10.002Z"
     },
-    "/home/pj/Documents/Dev/Portfolio/portfolio/src/assets/images/profilepic.jpg absPath of file >> ImageSharp": {
-      "id": "/home/pj/Documents/Dev/Portfolio/portfolio/src/assets/images/profilepic.jpg absPath of file >> ImageSharp",
-      "children": [],
-      "parent": "/home/pj/Documents/Dev/Portfolio/portfolio/src/assets/images/profilepic.jpg absPath of file",
-      "internal": {
-        "contentDigest": "7e773edecdc38561e4d4bcd2606811f3",
-        "type": "ImageSharp",
-        "owner": "gatsby-transformer-sharp"
-      }
-    },
-    "/home/pj/Documents/Dev/Portfolio/portfolio/src/assets/images/overlay-zoom.png absPath of file >> ImageSharp": {
-      "id": "/home/pj/Documents/Dev/Portfolio/portfolio/src/assets/images/overlay-zoom.png absPath of file >> ImageSharp",
-      "children": [],
-      "parent": "/home/pj/Documents/Dev/Portfolio/portfolio/src/assets/images/overlay-zoom.png absPath of file",
-      "internal": {
-        "contentDigest": "a7d6622a9770d821ce7244048eb81b4c",
-        "type": "ImageSharp",
-        "owner": "gatsby-transformer-sharp"
-      }
-    },
-    "/home/pj/Documents/Dev/Portfolio/portfolio/src/assets/images/overlay-bg.png absPath of file >> ImageSharp": {
-      "id": "/home/pj/Documents/Dev/Portfolio/portfolio/src/assets/images/overlay-bg.png absPath of file >> ImageSharp",
-      "children": [],
-      "parent": "/home/pj/Documents/Dev/Portfolio/portfolio/src/assets/images/overlay-bg.png absPath of file",
-      "internal": {
-        "contentDigest": "9176109b8b53b0cd9be8b698b720be5e",
-        "type": "ImageSharp",
-        "owner": "gatsby-transformer-sharp"
-      }
-    },
-    "/home/pj/Documents/Dev/Portfolio/portfolio/src/assets/images/sample-image.jpg absPath of file >> ImageSharp": {
-      "id": "/home/pj/Documents/Dev/Portfolio/portfolio/src/assets/images/sample-image.jpg absPath of file >> ImageSharp",
-      "children": [],
-      "parent": "/home/pj/Documents/Dev/Portfolio/portfolio/src/assets/images/sample-image.jpg absPath of file",
-      "internal": {
-        "contentDigest": "a6a76c7e087849f9223e1839338779e9",
-        "type": "ImageSharp",
-        "owner": "gatsby-transformer-sharp"
-      }
-    },
-    "/home/pj/Documents/Dev/Portfolio/portfolio/src/assets/images/portfolio/modals/m-coffee.jpg absPath of file >> ImageSharp": {
-      "id": "/home/pj/Documents/Dev/Portfolio/portfolio/src/assets/images/portfolio/modals/m-coffee.jpg absPath of file >> ImageSharp",
-      "children": [],
-      "parent": "/home/pj/Documents/Dev/Portfolio/portfolio/src/assets/images/portfolio/modals/m-coffee.jpg absPath of file",
-      "internal": {
-        "contentDigest": "9a5510b73fa8e35066c047347b3e02e3",
-        "type": "ImageSharp",
-        "owner": "gatsby-transformer-sharp"
-      }
-    },
-    "/home/pj/Documents/Dev/Portfolio/portfolio/src/assets/images/portfolio/coffee.jpg absPath of file": {
-      "id": "/home/pj/Documents/Dev/Portfolio/portfolio/src/assets/images/portfolio/coffee.jpg absPath of file",
-      "children": [
-        "/home/pj/Documents/Dev/Portfolio/portfolio/src/assets/images/portfolio/coffee.jpg absPath of file >> ImageSharp"
-      ],
-      "parent": "___SOURCE___",
-      "internal": {
-        "contentDigest": "de06f5d908fc33bb083d947ca23d0a7f",
-        "mediaType": "image/jpeg",
-        "type": "File",
-        "owner": "gatsby-source-filesystem"
-      },
-      "sourceInstanceName": "images",
-      "absolutePath": "/home/pj/Documents/Dev/Portfolio/portfolio/src/assets/images/portfolio/coffee.jpg",
-      "relativePath": "portfolio/coffee.jpg",
-      "extension": "jpg",
-      "size": 75261,
-      "prettySize": "75.3 kB",
-      "modifiedTime": "2018-04-18T17:34:19.895Z",
-      "accessTime": "2018-04-18T18:41:15.453Z",
-      "changeTime": "2018-04-18T18:30:09.930Z",
-      "birthTime": "2018-04-18T18:30:09.930Z",
-      "root": "/",
-      "dir": "/home/pj/Documents/Dev/Portfolio/portfolio/src/assets/images/portfolio",
-      "base": "coffee.jpg",
-      "ext": ".jpg",
-      "name": "coffee",
-      "relativeDirectory": "portfolio",
-      "dev": 2058,
-      "mode": 33277,
-      "nlink": 1,
-      "uid": 1000,
-      "gid": 1000,
-      "rdev": 0,
-      "blksize": 4096,
-      "ino": 8073885,
-      "blocks": 152,
-      "atimeMs": 1524076875453.475,
-      "mtimeMs": 1524072859895.12,
-      "ctimeMs": 1524076209929.5427,
-      "birthtimeMs": 1524076209929.5427,
-      "atime": "2018-04-18T18:41:15.453Z",
-      "mtime": "2018-04-18T17:34:19.895Z",
-      "ctime": "2018-04-18T18:30:09.930Z",
-      "birthtime": "2018-04-18T18:30:09.930Z"
-    },
     "/home/pj/Documents/Dev/Portfolio/portfolio/src/assets/images/portfolio/console.jpg absPath of file": {
       "id": "/home/pj/Documents/Dev/Portfolio/portfolio/src/assets/images/portfolio/console.jpg absPath of file",
       "children": [
@@ -1671,26 +1575,6 @@
       "ctime": "2018-04-18T18:30:09.934Z",
       "birthtime": "2018-04-18T18:30:09.934Z"
     },
-    "/home/pj/Documents/Dev/Portfolio/portfolio/src/assets/images/portfolio/coffee.jpg absPath of file >> ImageSharp": {
-      "id": "/home/pj/Documents/Dev/Portfolio/portfolio/src/assets/images/portfolio/coffee.jpg absPath of file >> ImageSharp",
-      "children": [],
-      "parent": "/home/pj/Documents/Dev/Portfolio/portfolio/src/assets/images/portfolio/coffee.jpg absPath of file",
-      "internal": {
-        "contentDigest": "de06f5d908fc33bb083d947ca23d0a7f",
-        "type": "ImageSharp",
-        "owner": "gatsby-transformer-sharp"
-      }
-    },
-    "/home/pj/Documents/Dev/Portfolio/portfolio/src/assets/images/portfolio/console.jpg absPath of file >> ImageSharp": {
-      "id": "/home/pj/Documents/Dev/Portfolio/portfolio/src/assets/images/portfolio/console.jpg absPath of file >> ImageSharp",
-      "children": [],
-      "parent": "/home/pj/Documents/Dev/Portfolio/portfolio/src/assets/images/portfolio/console.jpg absPath of file",
-      "internal": {
-        "contentDigest": "10a557caba8bdbb1f030609c669e4314",
-        "type": "ImageSharp",
-        "owner": "gatsby-transformer-sharp"
-      }
-    },
     "/home/pj/Documents/Dev/Portfolio/portfolio/src/assets/images/portfolio/into-the-light.jpg absPath of file": {
       "id": "/home/pj/Documents/Dev/Portfolio/portfolio/src/assets/images/portfolio/into-the-light.jpg absPath of file",
       "children": [
@@ -1736,6 +1620,46 @@
       "mtime": "2018-04-18T17:34:19.895Z",
       "ctime": "2018-04-18T18:30:09.970Z",
       "birthtime": "2018-04-18T18:30:09.970Z"
+    },
+    "/home/pj/Documents/Dev/Portfolio/portfolio/src/assets/images/overlay-bg.png absPath of file >> ImageSharp": {
+      "id": "/home/pj/Documents/Dev/Portfolio/portfolio/src/assets/images/overlay-bg.png absPath of file >> ImageSharp",
+      "children": [],
+      "parent": "/home/pj/Documents/Dev/Portfolio/portfolio/src/assets/images/overlay-bg.png absPath of file",
+      "internal": {
+        "contentDigest": "9176109b8b53b0cd9be8b698b720be5e",
+        "type": "ImageSharp",
+        "owner": "gatsby-transformer-sharp"
+      }
+    },
+    "/home/pj/Documents/Dev/Portfolio/portfolio/src/assets/images/overlay-zoom.png absPath of file >> ImageSharp": {
+      "id": "/home/pj/Documents/Dev/Portfolio/portfolio/src/assets/images/overlay-zoom.png absPath of file >> ImageSharp",
+      "children": [],
+      "parent": "/home/pj/Documents/Dev/Portfolio/portfolio/src/assets/images/overlay-zoom.png absPath of file",
+      "internal": {
+        "contentDigest": "a7d6622a9770d821ce7244048eb81b4c",
+        "type": "ImageSharp",
+        "owner": "gatsby-transformer-sharp"
+      }
+    },
+    "/home/pj/Documents/Dev/Portfolio/portfolio/src/assets/images/profilepic.jpg absPath of file >> ImageSharp": {
+      "id": "/home/pj/Documents/Dev/Portfolio/portfolio/src/assets/images/profilepic.jpg absPath of file >> ImageSharp",
+      "children": [],
+      "parent": "/home/pj/Documents/Dev/Portfolio/portfolio/src/assets/images/profilepic.jpg absPath of file",
+      "internal": {
+        "contentDigest": "85d6a0cda922164e542c342d6e321144",
+        "type": "ImageSharp",
+        "owner": "gatsby-transformer-sharp"
+      }
+    },
+    "/home/pj/Documents/Dev/Portfolio/portfolio/src/assets/images/sample-image.jpg absPath of file >> ImageSharp": {
+      "id": "/home/pj/Documents/Dev/Portfolio/portfolio/src/assets/images/sample-image.jpg absPath of file >> ImageSharp",
+      "children": [],
+      "parent": "/home/pj/Documents/Dev/Portfolio/portfolio/src/assets/images/sample-image.jpg absPath of file",
+      "internal": {
+        "contentDigest": "a6a76c7e087849f9223e1839338779e9",
+        "type": "ImageSharp",
+        "owner": "gatsby-transformer-sharp"
+      }
     },
     "/home/pj/Documents/Dev/Portfolio/portfolio/src/assets/images/portfolio/origami.jpg absPath of file": {
       "id": "/home/pj/Documents/Dev/Portfolio/portfolio/src/assets/images/portfolio/origami.jpg absPath of file",
@@ -1829,42 +1753,34 @@
       "ctime": "2018-04-18T18:30:10.026Z",
       "birthtime": "2018-04-18T18:30:10.026Z"
     },
-    "/home/pj/Documents/Dev/Portfolio/portfolio/src/assets/images/portfolio/into-the-light.jpg absPath of file >> ImageSharp": {
-      "id": "/home/pj/Documents/Dev/Portfolio/portfolio/src/assets/images/portfolio/into-the-light.jpg absPath of file >> ImageSharp",
-      "children": [],
-      "parent": "/home/pj/Documents/Dev/Portfolio/portfolio/src/assets/images/portfolio/into-the-light.jpg absPath of file",
-      "internal": {
-        "contentDigest": "3445f11c05b5a0608b39f3b2cbb0bbf4",
-        "type": "ImageSharp",
-        "owner": "gatsby-transformer-sharp"
-      }
-    },
-    "/home/pj/Documents/Dev/Portfolio/portfolio/src/assets/images/loader.gif absPath of file": {
-      "id": "/home/pj/Documents/Dev/Portfolio/portfolio/src/assets/images/loader.gif absPath of file",
-      "children": [],
+    "/home/pj/Documents/Dev/Portfolio/portfolio/src/assets/images/portfolio/modals/m-origami.jpg absPath of file": {
+      "id": "/home/pj/Documents/Dev/Portfolio/portfolio/src/assets/images/portfolio/modals/m-origami.jpg absPath of file",
+      "children": [
+        "/home/pj/Documents/Dev/Portfolio/portfolio/src/assets/images/portfolio/modals/m-origami.jpg absPath of file >> ImageSharp"
+      ],
       "parent": "___SOURCE___",
       "internal": {
-        "contentDigest": "b41bfcf37a8a365d2c101c9931bc0e75",
-        "mediaType": "image/gif",
+        "contentDigest": "0f03a9bee6e8f1f6b48007d6c096dad9",
+        "mediaType": "image/jpeg",
         "type": "File",
         "owner": "gatsby-source-filesystem"
       },
       "sourceInstanceName": "images",
-      "absolutePath": "/home/pj/Documents/Dev/Portfolio/portfolio/src/assets/images/loader.gif",
-      "relativePath": "loader.gif",
-      "extension": "gif",
-      "size": 3256,
-      "prettySize": "3.26 kB",
-      "modifiedTime": "2018-04-18T17:34:19.895Z",
-      "accessTime": "2018-04-18T18:41:15.441Z",
-      "changeTime": "2018-04-18T18:30:09.854Z",
-      "birthTime": "2018-04-18T18:30:09.854Z",
+      "absolutePath": "/home/pj/Documents/Dev/Portfolio/portfolio/src/assets/images/portfolio/modals/m-origami.jpg",
+      "relativePath": "portfolio/modals/m-origami.jpg",
+      "extension": "jpg",
+      "size": 77689,
+      "prettySize": "77.7 kB",
+      "modifiedTime": "2018-04-18T17:34:19.899Z",
+      "accessTime": "2018-04-18T18:41:15.509Z",
+      "changeTime": "2018-04-18T18:30:10.034Z",
+      "birthTime": "2018-04-18T18:30:10.034Z",
       "root": "/",
-      "dir": "/home/pj/Documents/Dev/Portfolio/portfolio/src/assets/images",
-      "base": "loader.gif",
-      "ext": ".gif",
-      "name": "loader",
-      "relativeDirectory": "",
+      "dir": "/home/pj/Documents/Dev/Portfolio/portfolio/src/assets/images/portfolio/modals",
+      "base": "m-origami.jpg",
+      "ext": ".jpg",
+      "name": "m-origami",
+      "relativeDirectory": "portfolio/modals",
       "dev": 2058,
       "mode": 33277,
       "nlink": 1,
@@ -1872,16 +1788,16 @@
       "gid": 1000,
       "rdev": 0,
       "blksize": 4096,
-      "ino": 8073879,
-      "blocks": 8,
-      "atimeMs": 1524076875441.475,
-      "mtimeMs": 1524072859895.12,
-      "ctimeMs": 1524076209853.5435,
-      "birthtimeMs": 1524076209853.5435,
-      "atime": "2018-04-18T18:41:15.441Z",
-      "mtime": "2018-04-18T17:34:19.895Z",
-      "ctime": "2018-04-18T18:30:09.854Z",
-      "birthtime": "2018-04-18T18:30:09.854Z"
+      "ino": 8073899,
+      "blocks": 152,
+      "atimeMs": 1524076875509.4746,
+      "mtimeMs": 1524072859899.12,
+      "ctimeMs": 1524076210033.542,
+      "birthtimeMs": 1524076210033.542,
+      "atime": "2018-04-18T18:41:15.509Z",
+      "mtime": "2018-04-18T17:34:19.899Z",
+      "ctime": "2018-04-18T18:30:10.034Z",
+      "birthtime": "2018-04-18T18:30:10.034Z"
     },
     "/home/pj/Documents/Dev/Portfolio/portfolio/src/assets/images/portfolio/farmerboy.jpg absPath of file": {
       "id": "/home/pj/Documents/Dev/Portfolio/portfolio/src/assets/images/portfolio/farmerboy.jpg absPath of file",
@@ -1929,6 +1845,50 @@
       "ctime": "2018-04-18T18:30:09.946Z",
       "birthtime": "2018-04-18T18:30:09.946Z"
     },
+    "/home/pj/Documents/Dev/Portfolio/portfolio/src/assets/images/loader.gif absPath of file": {
+      "id": "/home/pj/Documents/Dev/Portfolio/portfolio/src/assets/images/loader.gif absPath of file",
+      "children": [],
+      "parent": "___SOURCE___",
+      "internal": {
+        "contentDigest": "b41bfcf37a8a365d2c101c9931bc0e75",
+        "mediaType": "image/gif",
+        "type": "File",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "images",
+      "absolutePath": "/home/pj/Documents/Dev/Portfolio/portfolio/src/assets/images/loader.gif",
+      "relativePath": "loader.gif",
+      "extension": "gif",
+      "size": 3256,
+      "prettySize": "3.26 kB",
+      "modifiedTime": "2018-04-18T17:34:19.895Z",
+      "accessTime": "2018-04-18T18:41:15.441Z",
+      "changeTime": "2018-04-18T18:30:09.854Z",
+      "birthTime": "2018-04-18T18:30:09.854Z",
+      "root": "/",
+      "dir": "/home/pj/Documents/Dev/Portfolio/portfolio/src/assets/images",
+      "base": "loader.gif",
+      "ext": ".gif",
+      "name": "loader",
+      "relativeDirectory": "",
+      "dev": 2058,
+      "mode": 33277,
+      "nlink": 1,
+      "uid": 1000,
+      "gid": 1000,
+      "rdev": 0,
+      "blksize": 4096,
+      "ino": 8073879,
+      "blocks": 8,
+      "atimeMs": 1524076875441.475,
+      "mtimeMs": 1524072859895.12,
+      "ctimeMs": 1524076209853.5435,
+      "birthtimeMs": 1524076209853.5435,
+      "atime": "2018-04-18T18:41:15.441Z",
+      "mtime": "2018-04-18T17:34:19.895Z",
+      "ctime": "2018-04-18T18:30:09.854Z",
+      "birthtime": "2018-04-18T18:30:09.854Z"
+    },
     "/home/pj/Documents/Dev/Portfolio/portfolio/src/assets/images/portfolio/girl.jpg absPath of file": {
       "id": "/home/pj/Documents/Dev/Portfolio/portfolio/src/assets/images/portfolio/girl.jpg absPath of file",
       "children": [
@@ -1974,6 +1934,36 @@
       "mtime": "2018-04-18T17:34:19.895Z",
       "ctime": "2018-04-18T18:30:09.954Z",
       "birthtime": "2018-04-18T18:30:09.954Z"
+    },
+    "/home/pj/Documents/Dev/Portfolio/portfolio/src/assets/images/portfolio/modals/m-coffee.jpg absPath of file >> ImageSharp": {
+      "id": "/home/pj/Documents/Dev/Portfolio/portfolio/src/assets/images/portfolio/modals/m-coffee.jpg absPath of file >> ImageSharp",
+      "children": [],
+      "parent": "/home/pj/Documents/Dev/Portfolio/portfolio/src/assets/images/portfolio/modals/m-coffee.jpg absPath of file",
+      "internal": {
+        "contentDigest": "9a5510b73fa8e35066c047347b3e02e3",
+        "type": "ImageSharp",
+        "owner": "gatsby-transformer-sharp"
+      }
+    },
+    "/home/pj/Documents/Dev/Portfolio/portfolio/src/assets/images/portfolio/console.jpg absPath of file >> ImageSharp": {
+      "id": "/home/pj/Documents/Dev/Portfolio/portfolio/src/assets/images/portfolio/console.jpg absPath of file >> ImageSharp",
+      "children": [],
+      "parent": "/home/pj/Documents/Dev/Portfolio/portfolio/src/assets/images/portfolio/console.jpg absPath of file",
+      "internal": {
+        "contentDigest": "10a557caba8bdbb1f030609c669e4314",
+        "type": "ImageSharp",
+        "owner": "gatsby-transformer-sharp"
+      }
+    },
+    "/home/pj/Documents/Dev/Portfolio/portfolio/src/assets/images/portfolio/into-the-light.jpg absPath of file >> ImageSharp": {
+      "id": "/home/pj/Documents/Dev/Portfolio/portfolio/src/assets/images/portfolio/into-the-light.jpg absPath of file >> ImageSharp",
+      "children": [],
+      "parent": "/home/pj/Documents/Dev/Portfolio/portfolio/src/assets/images/portfolio/into-the-light.jpg absPath of file",
+      "internal": {
+        "contentDigest": "3445f11c05b5a0608b39f3b2cbb0bbf4",
+        "type": "ImageSharp",
+        "owner": "gatsby-transformer-sharp"
+      }
     },
     "/home/pj/Documents/Dev/Portfolio/portfolio/src/assets/images/portfolio/retrocam.jpg absPath of file": {
       "id": "/home/pj/Documents/Dev/Portfolio/portfolio/src/assets/images/portfolio/retrocam.jpg absPath of file",
@@ -2067,71 +2057,51 @@
       "ctime": "2018-04-18T18:30:10.010Z",
       "birthtime": "2018-04-18T18:30:10.010Z"
     },
-    "/home/pj/Documents/Dev/Portfolio/portfolio/src/assets/images/portfolio/origami.jpg absPath of file >> ImageSharp": {
-      "id": "/home/pj/Documents/Dev/Portfolio/portfolio/src/assets/images/portfolio/origami.jpg absPath of file >> ImageSharp",
-      "children": [],
-      "parent": "/home/pj/Documents/Dev/Portfolio/portfolio/src/assets/images/portfolio/origami.jpg absPath of file",
-      "internal": {
-        "contentDigest": "5bb3df6308eaa82bdf74a53d339f6b86",
-        "type": "ImageSharp",
-        "owner": "gatsby-transformer-sharp"
-      }
-    },
-    "/home/pj/Documents/Dev/Portfolio/portfolio/src/assets/images/portfolio/modals/m-intothelight.jpg absPath of file >> ImageSharp": {
-      "id": "/home/pj/Documents/Dev/Portfolio/portfolio/src/assets/images/portfolio/modals/m-intothelight.jpg absPath of file >> ImageSharp",
-      "children": [],
-      "parent": "/home/pj/Documents/Dev/Portfolio/portfolio/src/assets/images/portfolio/modals/m-intothelight.jpg absPath of file",
-      "internal": {
-        "contentDigest": "f20aeacdaa64a9eb8f9eef9554245d48",
-        "type": "ImageSharp",
-        "owner": "gatsby-transformer-sharp"
-      }
-    },
-    "/home/pj/Documents/Dev/Portfolio/portfolio/src/assets/images/portfolio/modals/m-origami.jpg absPath of file": {
-      "id": "/home/pj/Documents/Dev/Portfolio/portfolio/src/assets/images/portfolio/modals/m-origami.jpg absPath of file",
+    "/home/pj/Documents/Dev/Portfolio/portfolio/src/assets/images/contact-background.jpg absPath of file": {
+      "id": "/home/pj/Documents/Dev/Portfolio/portfolio/src/assets/images/contact-background.jpg absPath of file",
       "children": [
-        "/home/pj/Documents/Dev/Portfolio/portfolio/src/assets/images/portfolio/modals/m-origami.jpg absPath of file >> ImageSharp"
+        "/home/pj/Documents/Dev/Portfolio/portfolio/src/assets/images/contact-background.jpg absPath of file >> ImageSharp"
       ],
       "parent": "___SOURCE___",
       "internal": {
-        "contentDigest": "0f03a9bee6e8f1f6b48007d6c096dad9",
+        "contentDigest": "da86f42d00f3c3908373c2fb156420fc",
         "mediaType": "image/jpeg",
         "type": "File",
         "owner": "gatsby-source-filesystem"
       },
       "sourceInstanceName": "images",
-      "absolutePath": "/home/pj/Documents/Dev/Portfolio/portfolio/src/assets/images/portfolio/modals/m-origami.jpg",
-      "relativePath": "portfolio/modals/m-origami.jpg",
+      "absolutePath": "/home/pj/Documents/Dev/Portfolio/portfolio/src/assets/images/contact-background.jpg",
+      "relativePath": "contact-background.jpg",
       "extension": "jpg",
-      "size": 77689,
-      "prettySize": "77.7 kB",
-      "modifiedTime": "2018-04-18T17:34:19.899Z",
-      "accessTime": "2018-04-18T18:41:15.509Z",
-      "changeTime": "2018-04-18T18:30:10.034Z",
-      "birthTime": "2018-04-18T18:30:10.034Z",
+      "size": 239370,
+      "prettySize": "239 kB",
+      "modifiedTime": "2018-04-19T13:08:07.566Z",
+      "accessTime": "2018-04-19T13:08:10.470Z",
+      "changeTime": "2018-04-19T13:08:07.566Z",
+      "birthTime": "2018-04-19T13:08:07.566Z",
       "root": "/",
-      "dir": "/home/pj/Documents/Dev/Portfolio/portfolio/src/assets/images/portfolio/modals",
-      "base": "m-origami.jpg",
+      "dir": "/home/pj/Documents/Dev/Portfolio/portfolio/src/assets/images",
+      "base": "contact-background.jpg",
       "ext": ".jpg",
-      "name": "m-origami",
-      "relativeDirectory": "portfolio/modals",
+      "name": "contact-background",
+      "relativeDirectory": "",
       "dev": 2058,
-      "mode": 33277,
+      "mode": 33204,
       "nlink": 1,
       "uid": 1000,
       "gid": 1000,
       "rdev": 0,
       "blksize": 4096,
-      "ino": 8073899,
-      "blocks": 152,
-      "atimeMs": 1524076875509.4746,
-      "mtimeMs": 1524072859899.12,
-      "ctimeMs": 1524076210033.542,
-      "birthtimeMs": 1524076210033.542,
-      "atime": "2018-04-18T18:41:15.509Z",
-      "mtime": "2018-04-18T17:34:19.899Z",
-      "ctime": "2018-04-18T18:30:10.034Z",
-      "birthtime": "2018-04-18T18:30:10.034Z"
+      "ino": 8050029,
+      "blocks": 472,
+      "atimeMs": 1524143290469.8542,
+      "mtimeMs": 1524143287565.8684,
+      "ctimeMs": 1524143287565.8684,
+      "birthtimeMs": 1524143287565.8684,
+      "atime": "2018-04-19T13:08:10.470Z",
+      "mtime": "2018-04-19T13:08:07.566Z",
+      "ctime": "2018-04-19T13:08:07.566Z",
+      "birthtime": "2018-04-19T13:08:07.566Z"
     },
     "/home/pj/Documents/Dev/Portfolio/portfolio/src/assets/images/header-background-old.jpg absPath of file": {
       "id": "/home/pj/Documents/Dev/Portfolio/portfolio/src/assets/images/header-background-old.jpg absPath of file",
@@ -2179,51 +2149,127 @@
       "ctime": "2018-04-19T13:18:15.650Z",
       "birthtime": "2018-04-19T13:18:15.650Z"
     },
-    "/home/pj/Documents/Dev/Portfolio/portfolio/src/assets/images/contact-background.jpg absPath of file": {
-      "id": "/home/pj/Documents/Dev/Portfolio/portfolio/src/assets/images/contact-background.jpg absPath of file",
+    "/home/pj/Documents/Dev/Portfolio/portfolio/src/assets/images/portfolio/coffee.jpg absPath of file": {
+      "id": "/home/pj/Documents/Dev/Portfolio/portfolio/src/assets/images/portfolio/coffee.jpg absPath of file",
       "children": [
-        "/home/pj/Documents/Dev/Portfolio/portfolio/src/assets/images/contact-background.jpg absPath of file >> ImageSharp"
+        "/home/pj/Documents/Dev/Portfolio/portfolio/src/assets/images/portfolio/coffee.jpg absPath of file >> ImageSharp"
       ],
       "parent": "___SOURCE___",
       "internal": {
-        "contentDigest": "da86f42d00f3c3908373c2fb156420fc",
+        "contentDigest": "de06f5d908fc33bb083d947ca23d0a7f",
         "mediaType": "image/jpeg",
         "type": "File",
         "owner": "gatsby-source-filesystem"
       },
       "sourceInstanceName": "images",
-      "absolutePath": "/home/pj/Documents/Dev/Portfolio/portfolio/src/assets/images/contact-background.jpg",
-      "relativePath": "contact-background.jpg",
+      "absolutePath": "/home/pj/Documents/Dev/Portfolio/portfolio/src/assets/images/portfolio/coffee.jpg",
+      "relativePath": "portfolio/coffee.jpg",
       "extension": "jpg",
-      "size": 239370,
-      "prettySize": "239 kB",
-      "modifiedTime": "2018-04-19T13:08:07.566Z",
-      "accessTime": "2018-04-19T13:08:10.470Z",
-      "changeTime": "2018-04-19T13:08:07.566Z",
-      "birthTime": "2018-04-19T13:08:07.566Z",
+      "size": 75261,
+      "prettySize": "75.3 kB",
+      "modifiedTime": "2018-04-18T17:34:19.895Z",
+      "accessTime": "2018-04-18T18:41:15.453Z",
+      "changeTime": "2018-04-18T18:30:09.930Z",
+      "birthTime": "2018-04-18T18:30:09.930Z",
       "root": "/",
-      "dir": "/home/pj/Documents/Dev/Portfolio/portfolio/src/assets/images",
-      "base": "contact-background.jpg",
+      "dir": "/home/pj/Documents/Dev/Portfolio/portfolio/src/assets/images/portfolio",
+      "base": "coffee.jpg",
       "ext": ".jpg",
-      "name": "contact-background",
-      "relativeDirectory": "",
+      "name": "coffee",
+      "relativeDirectory": "portfolio",
       "dev": 2058,
-      "mode": 33204,
+      "mode": 33277,
       "nlink": 1,
       "uid": 1000,
       "gid": 1000,
       "rdev": 0,
       "blksize": 4096,
-      "ino": 8050029,
-      "blocks": 472,
-      "atimeMs": 1524143290469.8542,
-      "mtimeMs": 1524143287565.8684,
-      "ctimeMs": 1524143287565.8684,
-      "birthtimeMs": 1524143287565.8684,
-      "atime": "2018-04-19T13:08:10.470Z",
-      "mtime": "2018-04-19T13:08:07.566Z",
-      "ctime": "2018-04-19T13:08:07.566Z",
-      "birthtime": "2018-04-19T13:08:07.566Z"
+      "ino": 8073885,
+      "blocks": 152,
+      "atimeMs": 1524076875453.475,
+      "mtimeMs": 1524072859895.12,
+      "ctimeMs": 1524076209929.5427,
+      "birthtimeMs": 1524076209929.5427,
+      "atime": "2018-04-18T18:41:15.453Z",
+      "mtime": "2018-04-18T17:34:19.895Z",
+      "ctime": "2018-04-18T18:30:09.930Z",
+      "birthtime": "2018-04-18T18:30:09.930Z"
+    },
+    "/home/pj/Documents/Dev/Portfolio/portfolio/src/assets/images/portfolio/judah.jpg absPath of file": {
+      "id": "/home/pj/Documents/Dev/Portfolio/portfolio/src/assets/images/portfolio/judah.jpg absPath of file",
+      "children": [
+        "/home/pj/Documents/Dev/Portfolio/portfolio/src/assets/images/portfolio/judah.jpg absPath of file >> ImageSharp"
+      ],
+      "parent": "___SOURCE___",
+      "internal": {
+        "contentDigest": "f5bf96d39756b9a7267076a3b81a5e98",
+        "mediaType": "image/jpeg",
+        "type": "File",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "images",
+      "absolutePath": "/home/pj/Documents/Dev/Portfolio/portfolio/src/assets/images/portfolio/judah.jpg",
+      "relativePath": "portfolio/judah.jpg",
+      "extension": "jpg",
+      "size": 197288,
+      "prettySize": "197 kB",
+      "modifiedTime": "2018-04-18T17:34:19.895Z",
+      "accessTime": "2018-04-18T18:41:15.469Z",
+      "changeTime": "2018-04-18T18:30:09.974Z",
+      "birthTime": "2018-04-18T18:30:09.974Z",
+      "root": "/",
+      "dir": "/home/pj/Documents/Dev/Portfolio/portfolio/src/assets/images/portfolio",
+      "base": "judah.jpg",
+      "ext": ".jpg",
+      "name": "judah",
+      "relativeDirectory": "portfolio",
+      "dev": 2058,
+      "mode": 33277,
+      "nlink": 1,
+      "uid": 1000,
+      "gid": 1000,
+      "rdev": 0,
+      "blksize": 4096,
+      "ino": 8073890,
+      "blocks": 392,
+      "atimeMs": 1524076875469.4749,
+      "mtimeMs": 1524072859895.12,
+      "ctimeMs": 1524076209973.5425,
+      "birthtimeMs": 1524076209973.5425,
+      "atime": "2018-04-18T18:41:15.469Z",
+      "mtime": "2018-04-18T17:34:19.895Z",
+      "ctime": "2018-04-18T18:30:09.974Z",
+      "birthtime": "2018-04-18T18:30:09.974Z"
+    },
+    "/home/pj/Documents/Dev/Portfolio/portfolio/src/assets/images/portfolio/origami.jpg absPath of file >> ImageSharp": {
+      "id": "/home/pj/Documents/Dev/Portfolio/portfolio/src/assets/images/portfolio/origami.jpg absPath of file >> ImageSharp",
+      "children": [],
+      "parent": "/home/pj/Documents/Dev/Portfolio/portfolio/src/assets/images/portfolio/origami.jpg absPath of file",
+      "internal": {
+        "contentDigest": "5bb3df6308eaa82bdf74a53d339f6b86",
+        "type": "ImageSharp",
+        "owner": "gatsby-transformer-sharp"
+      }
+    },
+    "/home/pj/Documents/Dev/Portfolio/portfolio/src/assets/images/portfolio/modals/m-intothelight.jpg absPath of file >> ImageSharp": {
+      "id": "/home/pj/Documents/Dev/Portfolio/portfolio/src/assets/images/portfolio/modals/m-intothelight.jpg absPath of file >> ImageSharp",
+      "children": [],
+      "parent": "/home/pj/Documents/Dev/Portfolio/portfolio/src/assets/images/portfolio/modals/m-intothelight.jpg absPath of file",
+      "internal": {
+        "contentDigest": "f20aeacdaa64a9eb8f9eef9554245d48",
+        "type": "ImageSharp",
+        "owner": "gatsby-transformer-sharp"
+      }
+    },
+    "/home/pj/Documents/Dev/Portfolio/portfolio/src/assets/images/portfolio/modals/m-origami.jpg absPath of file >> ImageSharp": {
+      "id": "/home/pj/Documents/Dev/Portfolio/portfolio/src/assets/images/portfolio/modals/m-origami.jpg absPath of file >> ImageSharp",
+      "children": [],
+      "parent": "/home/pj/Documents/Dev/Portfolio/portfolio/src/assets/images/portfolio/modals/m-origami.jpg absPath of file",
+      "internal": {
+        "contentDigest": "0f03a9bee6e8f1f6b48007d6c096dad9",
+        "type": "ImageSharp",
+        "owner": "gatsby-transformer-sharp"
+      }
     },
     "/home/pj/Documents/Dev/Portfolio/portfolio/src/assets/images/portfolio/farmerboy.jpg absPath of file >> ImageSharp": {
       "id": "/home/pj/Documents/Dev/Portfolio/portfolio/src/assets/images/portfolio/farmerboy.jpg absPath of file >> ImageSharp",
@@ -2241,26 +2287,6 @@
       "parent": "/home/pj/Documents/Dev/Portfolio/portfolio/src/assets/images/portfolio/girl.jpg absPath of file",
       "internal": {
         "contentDigest": "a95478b7f3fbeb159495ca2d36a6ccb7",
-        "type": "ImageSharp",
-        "owner": "gatsby-transformer-sharp"
-      }
-    },
-    "/home/pj/Documents/Dev/Portfolio/portfolio/src/assets/images/portfolio/retrocam.jpg absPath of file >> ImageSharp": {
-      "id": "/home/pj/Documents/Dev/Portfolio/portfolio/src/assets/images/portfolio/retrocam.jpg absPath of file >> ImageSharp",
-      "children": [],
-      "parent": "/home/pj/Documents/Dev/Portfolio/portfolio/src/assets/images/portfolio/retrocam.jpg absPath of file",
-      "internal": {
-        "contentDigest": "522192d97b644075d576df8f7f58f3a0",
-        "type": "ImageSharp",
-        "owner": "gatsby-transformer-sharp"
-      }
-    },
-    "/home/pj/Documents/Dev/Portfolio/portfolio/src/assets/images/portfolio/modals/m-console.jpg absPath of file >> ImageSharp": {
-      "id": "/home/pj/Documents/Dev/Portfolio/portfolio/src/assets/images/portfolio/modals/m-console.jpg absPath of file >> ImageSharp",
-      "children": [],
-      "parent": "/home/pj/Documents/Dev/Portfolio/portfolio/src/assets/images/portfolio/modals/m-console.jpg absPath of file",
-      "internal": {
-        "contentDigest": "dc53e451be2267be73395b7022b23956",
         "type": "ImageSharp",
         "owner": "gatsby-transformer-sharp"
       }
@@ -2357,58 +2383,32 @@
       "ctime": "2018-04-18T18:30:10.022Z",
       "birthtime": "2018-04-18T18:30:10.022Z"
     },
-    "/home/pj/Documents/Dev/Portfolio/portfolio/src/assets/images/portfolio/judah.jpg absPath of file": {
-      "id": "/home/pj/Documents/Dev/Portfolio/portfolio/src/assets/images/portfolio/judah.jpg absPath of file",
-      "children": [
-        "/home/pj/Documents/Dev/Portfolio/portfolio/src/assets/images/portfolio/judah.jpg absPath of file >> ImageSharp"
-      ],
-      "parent": "___SOURCE___",
-      "internal": {
-        "contentDigest": "f5bf96d39756b9a7267076a3b81a5e98",
-        "mediaType": "image/jpeg",
-        "type": "File",
-        "owner": "gatsby-source-filesystem"
-      },
-      "sourceInstanceName": "images",
-      "absolutePath": "/home/pj/Documents/Dev/Portfolio/portfolio/src/assets/images/portfolio/judah.jpg",
-      "relativePath": "portfolio/judah.jpg",
-      "extension": "jpg",
-      "size": 197288,
-      "prettySize": "197 kB",
-      "modifiedTime": "2018-04-18T17:34:19.895Z",
-      "accessTime": "2018-04-18T18:41:15.469Z",
-      "changeTime": "2018-04-18T18:30:09.974Z",
-      "birthTime": "2018-04-18T18:30:09.974Z",
-      "root": "/",
-      "dir": "/home/pj/Documents/Dev/Portfolio/portfolio/src/assets/images/portfolio",
-      "base": "judah.jpg",
-      "ext": ".jpg",
-      "name": "judah",
-      "relativeDirectory": "portfolio",
-      "dev": 2058,
-      "mode": 33277,
-      "nlink": 1,
-      "uid": 1000,
-      "gid": 1000,
-      "rdev": 0,
-      "blksize": 4096,
-      "ino": 8073890,
-      "blocks": 392,
-      "atimeMs": 1524076875469.4749,
-      "mtimeMs": 1524072859895.12,
-      "ctimeMs": 1524076209973.5425,
-      "birthtimeMs": 1524076209973.5425,
-      "atime": "2018-04-18T18:41:15.469Z",
-      "mtime": "2018-04-18T17:34:19.895Z",
-      "ctime": "2018-04-18T18:30:09.974Z",
-      "birthtime": "2018-04-18T18:30:09.974Z"
-    },
-    "/home/pj/Documents/Dev/Portfolio/portfolio/src/assets/images/portfolio/modals/m-origami.jpg absPath of file >> ImageSharp": {
-      "id": "/home/pj/Documents/Dev/Portfolio/portfolio/src/assets/images/portfolio/modals/m-origami.jpg absPath of file >> ImageSharp",
+    "/home/pj/Documents/Dev/Portfolio/portfolio/src/assets/images/portfolio/retrocam.jpg absPath of file >> ImageSharp": {
+      "id": "/home/pj/Documents/Dev/Portfolio/portfolio/src/assets/images/portfolio/retrocam.jpg absPath of file >> ImageSharp",
       "children": [],
-      "parent": "/home/pj/Documents/Dev/Portfolio/portfolio/src/assets/images/portfolio/modals/m-origami.jpg absPath of file",
+      "parent": "/home/pj/Documents/Dev/Portfolio/portfolio/src/assets/images/portfolio/retrocam.jpg absPath of file",
       "internal": {
-        "contentDigest": "0f03a9bee6e8f1f6b48007d6c096dad9",
+        "contentDigest": "522192d97b644075d576df8f7f58f3a0",
+        "type": "ImageSharp",
+        "owner": "gatsby-transformer-sharp"
+      }
+    },
+    "/home/pj/Documents/Dev/Portfolio/portfolio/src/assets/images/portfolio/modals/m-console.jpg absPath of file >> ImageSharp": {
+      "id": "/home/pj/Documents/Dev/Portfolio/portfolio/src/assets/images/portfolio/modals/m-console.jpg absPath of file >> ImageSharp",
+      "children": [],
+      "parent": "/home/pj/Documents/Dev/Portfolio/portfolio/src/assets/images/portfolio/modals/m-console.jpg absPath of file",
+      "internal": {
+        "contentDigest": "dc53e451be2267be73395b7022b23956",
+        "type": "ImageSharp",
+        "owner": "gatsby-transformer-sharp"
+      }
+    },
+    "/home/pj/Documents/Dev/Portfolio/portfolio/src/assets/images/contact-background.jpg absPath of file >> ImageSharp": {
+      "id": "/home/pj/Documents/Dev/Portfolio/portfolio/src/assets/images/contact-background.jpg absPath of file >> ImageSharp",
+      "children": [],
+      "parent": "/home/pj/Documents/Dev/Portfolio/portfolio/src/assets/images/contact-background.jpg absPath of file",
+      "internal": {
+        "contentDigest": "da86f42d00f3c3908373c2fb156420fc",
         "type": "ImageSharp",
         "owner": "gatsby-transformer-sharp"
       }
@@ -2423,12 +2423,22 @@
         "owner": "gatsby-transformer-sharp"
       }
     },
-    "/home/pj/Documents/Dev/Portfolio/portfolio/src/assets/images/contact-background.jpg absPath of file >> ImageSharp": {
-      "id": "/home/pj/Documents/Dev/Portfolio/portfolio/src/assets/images/contact-background.jpg absPath of file >> ImageSharp",
+    "/home/pj/Documents/Dev/Portfolio/portfolio/src/assets/images/portfolio/coffee.jpg absPath of file >> ImageSharp": {
+      "id": "/home/pj/Documents/Dev/Portfolio/portfolio/src/assets/images/portfolio/coffee.jpg absPath of file >> ImageSharp",
       "children": [],
-      "parent": "/home/pj/Documents/Dev/Portfolio/portfolio/src/assets/images/contact-background.jpg absPath of file",
+      "parent": "/home/pj/Documents/Dev/Portfolio/portfolio/src/assets/images/portfolio/coffee.jpg absPath of file",
       "internal": {
-        "contentDigest": "da86f42d00f3c3908373c2fb156420fc",
+        "contentDigest": "de06f5d908fc33bb083d947ca23d0a7f",
+        "type": "ImageSharp",
+        "owner": "gatsby-transformer-sharp"
+      }
+    },
+    "/home/pj/Documents/Dev/Portfolio/portfolio/src/assets/images/portfolio/judah.jpg absPath of file >> ImageSharp": {
+      "id": "/home/pj/Documents/Dev/Portfolio/portfolio/src/assets/images/portfolio/judah.jpg absPath of file >> ImageSharp",
+      "children": [],
+      "parent": "/home/pj/Documents/Dev/Portfolio/portfolio/src/assets/images/portfolio/judah.jpg absPath of file",
+      "internal": {
+        "contentDigest": "f5bf96d39756b9a7267076a3b81a5e98",
         "type": "ImageSharp",
         "owner": "gatsby-transformer-sharp"
       }
@@ -2541,16 +2551,6 @@
       "parent": "/home/pj/Documents/Dev/Portfolio/portfolio/src/assets/images/portfolio/modals/m-girl.jpg absPath of file",
       "internal": {
         "contentDigest": "cca489424290988698ceb5e8c5552189",
-        "type": "ImageSharp",
-        "owner": "gatsby-transformer-sharp"
-      }
-    },
-    "/home/pj/Documents/Dev/Portfolio/portfolio/src/assets/images/portfolio/judah.jpg absPath of file >> ImageSharp": {
-      "id": "/home/pj/Documents/Dev/Portfolio/portfolio/src/assets/images/portfolio/judah.jpg absPath of file >> ImageSharp",
-      "children": [],
-      "parent": "/home/pj/Documents/Dev/Portfolio/portfolio/src/assets/images/portfolio/judah.jpg absPath of file",
-      "internal": {
-        "contentDigest": "f5bf96d39756b9a7267076a3b81a5e98",
         "type": "ImageSharp",
         "owner": "gatsby-transformer-sharp"
       }
@@ -2695,7 +2695,7 @@
       "component": "/home/pj/Documents/Dev/Portfolio/portfolio/src/pages/404.js",
       "componentChunkName": "component---src-pages-404-js",
       "context": {},
-      "updatedAt": 1524156696689,
+      "updatedAt": 1524163552411,
       "pluginCreator___NODE": "Plugin component-page-creator",
       "pluginCreatorId": "Plugin component-page-creator",
       "componentPath": "/home/pj/Documents/Dev/Portfolio/portfolio/src/pages/404.js",
@@ -2704,7 +2704,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "bb438f2d48d09458787490841a9412e2",
+        "contentDigest": "9c5f1e365c7d13087c3911d96d0639bd",
         "owner": "internal-data-bridge"
       }
     },
@@ -2716,7 +2716,7 @@
       "component": "/home/pj/Documents/Dev/Portfolio/portfolio/src/pages/index.js",
       "componentChunkName": "component---src-pages-index-js",
       "context": {},
-      "updatedAt": 1524156696690,
+      "updatedAt": 1524163552412,
       "pluginCreator___NODE": "Plugin component-page-creator",
       "pluginCreatorId": "Plugin component-page-creator",
       "componentPath": "/home/pj/Documents/Dev/Portfolio/portfolio/src/pages/index.js",
@@ -2725,7 +2725,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "990636c1da4ce0c35956c61297b63549",
+        "contentDigest": "982604ed0df502f4cd31b4cecedf8b6d",
         "owner": "internal-data-bridge"
       }
     },
@@ -2737,7 +2737,7 @@
       "component": "/home/pj/Documents/Dev/Portfolio/portfolio/src/pages/404.js",
       "componentChunkName": "component---src-pages-404-js",
       "context": {},
-      "updatedAt": 1524156696691,
+      "updatedAt": 1524163552415,
       "pluginCreator___NODE": "Plugin prod-404",
       "pluginCreatorId": "Plugin prod-404",
       "componentPath": "/home/pj/Documents/Dev/Portfolio/portfolio/src/pages/404.js",
@@ -2746,14 +2746,14 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "c7997393acc850950284cf3d6ec20b24",
+        "contentDigest": "b809e41c37f3bb49738b6cbcb25ed9a4",
         "owner": "internal-data-bridge"
       }
     }
   },
   "status": {
     "plugins": {},
-    "PLUGINS_HASH": "11eff5f5fe27d5bf7b118c3632a4c622"
+    "PLUGINS_HASH": "c4eec152feea8c07f7d0f40cc9066ef6"
   },
   "componentDataDependencies": {
     "nodes": {},

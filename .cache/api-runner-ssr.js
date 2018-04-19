@@ -3,7 +3,7 @@ var plugins = [{
       options: {"plugins":[],"pathToConfigModule":"src/utils/typography.js"},
     },{
       plugin: require('/home/pj/Documents/Dev/Portfolio/portfolio/node_modules/gatsby-plugin-google-fonts/gatsby-ssr.js'),
-      options: {"plugins":[],"fonts":["librebaskerville","open sans","permanent marker","pacifico"]},
+      options: {"plugins":[],"fonts":["librebaskerville","open sans","permanent marker"]},
     },{
       plugin: require('/home/pj/Documents/Dev/Portfolio/portfolio/node_modules/gatsby-plugin-react-helmet/gatsby-ssr.js'),
       options: {"plugins":[]},
