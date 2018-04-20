@@ -2,6 +2,8 @@ import React from "react";
 import { FaPlus, FaTag } from "react-icons/lib/fa";
 
 import Concoctail from './Portfolio/Concoctail'
+import Prayers from './Portfolio/Prayers'
+import PortfolioSite from './Portfolio/PortfolioSite'
 
 const Portfolio = () => (
   <section id="portfolio">
@@ -17,10 +19,10 @@ const Portfolio = () => (
             <Concoctail/>
           </div>
           <div className="prayers">
-            <Concoctail/>
+            <Prayers/>
           </div>
           <div className="online-portfolio-site">
-            <Concoctail/>
+            <PortfolioSite/>
           </div>
           
         </div>

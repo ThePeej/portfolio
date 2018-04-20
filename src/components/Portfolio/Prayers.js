@@ -1,31 +1,35 @@
 import React from 'react';
-import ConcoctailHome from "../../assets/images/concoctail-home.png";
-import ConcoctailRandom from "../../assets/images/concoctail-random-2.png";
-import ConcoctailMybar from "../../assets/images/concoctail-mybar.png";
+import PrayersHome from "../../assets/images/prayers-home.png";
 
-const Concoctail = () => {
+import { FaYoutubePlay, FaGithub } from "react-icons/lib/fa";
+
+const Prayers = () => {
   return (
     <div>
-      <h2>Concoctail</h2>
-      <h4>An app that curates cocktail recipes based off your home bar</h4>
-      <div className="columns portfolio-item">
-        <a href={ConcoctailMybar} target="_blank">
-          <img alt="Concoctail App" src={ConcoctailMybar} />
-        </a>
+      <div className="summary">
+        <h2>Prayers</h2>    
+        <h4>A social space for words of encouragement, a platform built on community</h4>
       </div>
       <div className="columns portfolio-item description">
         <ul>
-          <li> Built using React & Redux to optimize user interface and define user experience</li>
-          <li> Incorporated Materialize CSS framework to design front end</li>
-          <li> Utilized Ruby on Rails API backend to persist and provide data</li>
-          <li> Designed the database schema and configured ActiveRecord associations</li>
+          <li>RESTful API backend using Ruby on Rails</li>
+          <li>ActiveRecord associations and corresponding database schema</li>
+          <li>Bulma framework and custom CSS to design front end</li>
+          <li>AJAX resource fetching and posting to drive user experience</li>
+          <li>Devise and Pundit for authentication and authorization</li>
+          <li>OMniAuth for OAuth authentication with Facebook</li>
         </ul>
-        <button className="video-demo button">Video Demo</button>
-        <button className="github button">Project Github Repo</button>
+        <a href="https://youtu.be/G-wgw7763_E" target="_blank" className="video-demo button"><FaYoutubePlay /> Video Demo</a>
+        <a href="https://github.com/ThePeej/prayers-rails-app" target="_blank" className="github button"><FaGithub /> Github Repo</a>
+      </div>
+      <div className="columns portfolio-item">
+        <a href={PrayersHome} target="_blank">
+          <img alt="Concoctail App" src={PrayersHome} />
+        </a>
       </div>
       <hr />
     </div>
   );
 }
 
-export default Concoctail;
+export default Prayers;

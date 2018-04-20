@@ -987,7 +987,7 @@ header .banner .button i {
   position: fixed;
   left: 0;
   top: 0;
-  background: rgba(80, 80, 80, 0.5)
+  background: rgba(70, 70, 70, 0.75)
 }
 
 .opaque {
@@ -1398,7 +1398,7 @@ ul#nav li.current a {
 /* ------------------------------------------------------------------ */
 
 #portfolio {
-  background: rgb(240, 239, 239);
+  background: #EEEEEF;
   padding-top: 70px;
   padding-bottom: 60px;
 }
@@ -1435,16 +1435,26 @@ ul#nav li.current a {
 }
 
 #portfolio ul{
-  font: 16px/10px "josefin sans", sans-serif;
+  font: 14px/12px "josefin sans", sans-serif;
+  /* font: 15px/12px "opensans-light", sans-serif; */
   /* text-transform: uppercase; */
   letter-spacing: 1px;
   margin-bottom: 24px;
   color: #354244;
 }
 
+#portfolio .prayers .description {
+  text-align: right;
+}
+
+#portfolio .summary {
+  margin-bottom: 35px;
+}
+
 #portfolio .description .button {
   font: 16px/12px "opensans-bold", sans-serif;
   margin-top: 6px;
+  margin-right: 10px;
   background: #ffffff;
   border-radius: 30px;
   color: #11abb0;

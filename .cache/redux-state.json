@@ -1,23 +1,13 @@
 {
   "nodes": {
     "SitePage /dev-404-page/": {
-      "layout": "index",
-      "jsonName": "dev-404-page.json",
-      "internalComponentName": "ComponentDev404Page",
       "path": "/dev-404-page/",
-      "component": "/home/pj/Documents/Dev/Portfolio/portfolio/.cache/dev-404-page.js",
-      "componentChunkName": "component---cache-dev-404-page-js",
-      "context": {},
-      "updatedAt": 1524241269256,
-      "pluginCreator___NODE": "Plugin dev-404-page",
-      "pluginCreatorId": "Plugin dev-404-page",
-      "componentPath": "/home/pj/Documents/Dev/Portfolio/portfolio/.cache/dev-404-page.js",
       "id": "SitePage /dev-404-page/",
       "parent": "SOURCE",
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "781d5531af056c8e930f29a02fb8bfbd",
+        "contentDigest": "f91d29e10ba680b413138cf9ed86e655",
         "owner": "internal-data-bridge"
       }
     },
@@ -1157,16 +1147,14 @@
         "author": "PJ Frias",
         "description": "The portfolio of PJ Frias"
       },
-      "port": "8000",
-      "host": "localhost",
       "pathPrefix": "",
       "polyfill": true,
-      "buildTime": "2018-04-20T16:13:18.374Z",
+      "buildTime": "2018-04-20T17:51:09.502Z",
       "id": "Site",
       "parent": "SOURCE",
       "children": [],
       "internal": {
-        "contentDigest": "8f1549c8bd8e557c112d21bb41b3a3e5",
+        "contentDigest": "8e97f7dffd8d507cecac6307d4389ae9",
         "type": "Site",
         "owner": "internal-data-bridge"
       }
@@ -1176,7 +1164,7 @@
       "children": [],
       "parent": "___SOURCE___",
       "internal": {
-        "contentDigest": "29faf7b2dc43ccbafab2bcb22be146eb",
+        "contentDigest": "5a4fb36de4f90001dca63672cc5a0516",
         "type": "Directory",
         "owner": "gatsby-source-filesystem"
       },
@@ -1186,10 +1174,10 @@
       "extension": "",
       "size": 4096,
       "prettySize": "4.1 kB",
-      "modifiedTime": "2018-04-20T14:46:15.613Z",
-      "accessTime": "2018-04-20T14:47:04.600Z",
-      "changeTime": "2018-04-20T14:46:15.613Z",
-      "birthTime": "2018-04-20T14:46:15.613Z",
+      "modifiedTime": "2018-04-20T17:39:14.481Z",
+      "accessTime": "2018-04-20T17:40:08.612Z",
+      "changeTime": "2018-04-20T17:39:14.481Z",
+      "birthTime": "2018-04-20T17:39:14.481Z",
       "root": "/",
       "dir": "/home/pj/Documents/Dev/Portfolio/portfolio/src/assets",
       "base": "images",
@@ -1198,21 +1186,21 @@
       "relativeDirectory": "..",
       "dev": 2058,
       "mode": 16893,
-      "nlink": 3,
+      "nlink": 2,
       "uid": 1000,
       "gid": 1000,
       "rdev": 0,
       "blksize": 4096,
       "ino": 8077604,
       "blocks": 8,
-      "atimeMs": 1524235624599.5718,
-      "mtimeMs": 1524235575613.425,
-      "ctimeMs": 1524235575613.425,
-      "birthtimeMs": 1524235575613.425,
-      "atime": "2018-04-20T14:47:04.600Z",
-      "mtime": "2018-04-20T14:46:15.613Z",
-      "ctime": "2018-04-20T14:46:15.613Z",
-      "birthtime": "2018-04-20T14:46:15.613Z"
+      "atimeMs": 1524246008612.4893,
+      "mtimeMs": 1524245954480.591,
+      "ctimeMs": 1524245954480.591,
+      "birthtimeMs": 1524245954480.591,
+      "atime": "2018-04-20T17:40:08.612Z",
+      "mtime": "2018-04-20T17:39:14.481Z",
+      "ctime": "2018-04-20T17:39:14.481Z",
+      "birthtime": "2018-04-20T17:39:14.481Z"
     },
     "/home/pj/Documents/Dev/Portfolio/portfolio/src/assets/images/loader.gif absPath of file": {
       "id": "/home/pj/Documents/Dev/Portfolio/portfolio/src/assets/images/loader.gif absPath of file",
@@ -1874,6 +1862,174 @@
         "owner": "gatsby-transformer-sharp"
       }
     },
+    "/home/pj/Documents/Dev/Portfolio/portfolio/src/assets/images/prayers-home.png absPath of file": {
+      "id": "/home/pj/Documents/Dev/Portfolio/portfolio/src/assets/images/prayers-home.png absPath of file",
+      "children": [
+        "/home/pj/Documents/Dev/Portfolio/portfolio/src/assets/images/prayers-home.png absPath of file >> ImageSharp"
+      ],
+      "parent": "___SOURCE___",
+      "internal": {
+        "contentDigest": "216199b917c2825a460b3d77920be7fa",
+        "mediaType": "image/png",
+        "type": "File",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "images",
+      "absolutePath": "/home/pj/Documents/Dev/Portfolio/portfolio/src/assets/images/prayers-home.png",
+      "relativePath": "prayers-home.png",
+      "extension": "png",
+      "size": 61449,
+      "prettySize": "61.4 kB",
+      "modifiedTime": "2018-04-20T17:38:11.533Z",
+      "accessTime": "2018-04-20T17:38:11.509Z",
+      "changeTime": "2018-04-20T17:38:19.061Z",
+      "birthTime": "2018-04-20T17:38:19.061Z",
+      "root": "/",
+      "dir": "/home/pj/Documents/Dev/Portfolio/portfolio/src/assets/images",
+      "base": "prayers-home.png",
+      "ext": ".png",
+      "name": "prayers-home",
+      "relativeDirectory": "",
+      "dev": 2058,
+      "mode": 33204,
+      "nlink": 1,
+      "uid": 1000,
+      "gid": 1000,
+      "rdev": 0,
+      "blksize": 4096,
+      "ino": 4226530,
+      "blocks": 136,
+      "atimeMs": 1524245891508.713,
+      "mtimeMs": 1524245891532.713,
+      "ctimeMs": 1524245899060.698,
+      "birthtimeMs": 1524245899060.698,
+      "atime": "2018-04-20T17:38:11.509Z",
+      "mtime": "2018-04-20T17:38:11.533Z",
+      "ctime": "2018-04-20T17:38:19.061Z",
+      "birthtime": "2018-04-20T17:38:19.061Z"
+    },
+    "/home/pj/Documents/Dev/Portfolio/portfolio/src/assets/images/prayers-login.png absPath of file": {
+      "id": "/home/pj/Documents/Dev/Portfolio/portfolio/src/assets/images/prayers-login.png absPath of file",
+      "children": [
+        "/home/pj/Documents/Dev/Portfolio/portfolio/src/assets/images/prayers-login.png absPath of file >> ImageSharp"
+      ],
+      "parent": "___SOURCE___",
+      "internal": {
+        "contentDigest": "c14649915806bf3f4eed0d4cd674c069",
+        "mediaType": "image/png",
+        "type": "File",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "images",
+      "absolutePath": "/home/pj/Documents/Dev/Portfolio/portfolio/src/assets/images/prayers-login.png",
+      "relativePath": "prayers-login.png",
+      "extension": "png",
+      "size": 31846,
+      "prettySize": "31.8 kB",
+      "modifiedTime": "2018-04-20T17:38:42.077Z",
+      "accessTime": "2018-04-20T17:38:42.061Z",
+      "changeTime": "2018-04-20T17:38:48.633Z",
+      "birthTime": "2018-04-20T17:38:48.633Z",
+      "root": "/",
+      "dir": "/home/pj/Documents/Dev/Portfolio/portfolio/src/assets/images",
+      "base": "prayers-login.png",
+      "ext": ".png",
+      "name": "prayers-login",
+      "relativeDirectory": "",
+      "dev": 2058,
+      "mode": 33204,
+      "nlink": 1,
+      "uid": 1000,
+      "gid": 1000,
+      "rdev": 0,
+      "blksize": 4096,
+      "ino": 4226537,
+      "blocks": 72,
+      "atimeMs": 1524245922060.6533,
+      "mtimeMs": 1524245922076.653,
+      "ctimeMs": 1524245928632.6406,
+      "birthtimeMs": 1524245928632.6406,
+      "atime": "2018-04-20T17:38:42.061Z",
+      "mtime": "2018-04-20T17:38:42.077Z",
+      "ctime": "2018-04-20T17:38:48.633Z",
+      "birthtime": "2018-04-20T17:38:48.633Z"
+    },
+    "/home/pj/Documents/Dev/Portfolio/portfolio/src/assets/images/prayers-home.png absPath of file >> ImageSharp": {
+      "id": "/home/pj/Documents/Dev/Portfolio/portfolio/src/assets/images/prayers-home.png absPath of file >> ImageSharp",
+      "children": [],
+      "parent": "/home/pj/Documents/Dev/Portfolio/portfolio/src/assets/images/prayers-home.png absPath of file",
+      "internal": {
+        "contentDigest": "216199b917c2825a460b3d77920be7fa",
+        "type": "ImageSharp",
+        "owner": "gatsby-transformer-sharp"
+      }
+    },
+    "/home/pj/Documents/Dev/Portfolio/portfolio/src/assets/images/prayers-login.png absPath of file >> ImageSharp": {
+      "id": "/home/pj/Documents/Dev/Portfolio/portfolio/src/assets/images/prayers-login.png absPath of file >> ImageSharp",
+      "children": [],
+      "parent": "/home/pj/Documents/Dev/Portfolio/portfolio/src/assets/images/prayers-login.png absPath of file",
+      "internal": {
+        "contentDigest": "c14649915806bf3f4eed0d4cd674c069",
+        "type": "ImageSharp",
+        "owner": "gatsby-transformer-sharp"
+      }
+    },
+    "/home/pj/Documents/Dev/Portfolio/portfolio/src/assets/images/prayers-show.png absPath of file": {
+      "id": "/home/pj/Documents/Dev/Portfolio/portfolio/src/assets/images/prayers-show.png absPath of file",
+      "children": [
+        "/home/pj/Documents/Dev/Portfolio/portfolio/src/assets/images/prayers-show.png absPath of file >> ImageSharp"
+      ],
+      "parent": "___SOURCE___",
+      "internal": {
+        "contentDigest": "0a5ecf54d90ec8028779676335ee3d56",
+        "mediaType": "image/png",
+        "type": "File",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "images",
+      "absolutePath": "/home/pj/Documents/Dev/Portfolio/portfolio/src/assets/images/prayers-show.png",
+      "relativePath": "prayers-show.png",
+      "extension": "png",
+      "size": 100041,
+      "prettySize": "100 kB",
+      "modifiedTime": "2018-04-20T17:39:06.833Z",
+      "accessTime": "2018-04-20T17:39:06.813Z",
+      "changeTime": "2018-04-20T17:39:14.481Z",
+      "birthTime": "2018-04-20T17:39:14.481Z",
+      "root": "/",
+      "dir": "/home/pj/Documents/Dev/Portfolio/portfolio/src/assets/images",
+      "base": "prayers-show.png",
+      "ext": ".png",
+      "name": "prayers-show",
+      "relativeDirectory": "",
+      "dev": 2058,
+      "mode": 33204,
+      "nlink": 1,
+      "uid": 1000,
+      "gid": 1000,
+      "rdev": 0,
+      "blksize": 4096,
+      "ino": 4226533,
+      "blocks": 208,
+      "atimeMs": 1524245946812.6055,
+      "mtimeMs": 1524245946832.6055,
+      "ctimeMs": 1524245954480.591,
+      "birthtimeMs": 1524245954480.591,
+      "atime": "2018-04-20T17:39:06.813Z",
+      "mtime": "2018-04-20T17:39:06.833Z",
+      "ctime": "2018-04-20T17:39:14.481Z",
+      "birthtime": "2018-04-20T17:39:14.481Z"
+    },
+    "/home/pj/Documents/Dev/Portfolio/portfolio/src/assets/images/prayers-show.png absPath of file >> ImageSharp": {
+      "id": "/home/pj/Documents/Dev/Portfolio/portfolio/src/assets/images/prayers-show.png absPath of file >> ImageSharp",
+      "children": [],
+      "parent": "/home/pj/Documents/Dev/Portfolio/portfolio/src/assets/images/prayers-show.png absPath of file",
+      "internal": {
+        "contentDigest": "0a5ecf54d90ec8028779676335ee3d56",
+        "type": "ImageSharp",
+        "owner": "gatsby-transformer-sharp"
+      }
+    },
     "SitePage /404/": {
       "layout": "index",
       "jsonName": "404.json",
@@ -1882,7 +2038,7 @@
       "component": "/home/pj/Documents/Dev/Portfolio/portfolio/src/pages/404.js",
       "componentChunkName": "component---src-pages-404-js",
       "context": {},
-      "updatedAt": 1524240820970,
+      "updatedAt": 1524246672466,
       "pluginCreator___NODE": "Plugin component-page-creator",
       "pluginCreatorId": "Plugin component-page-creator",
       "componentPath": "/home/pj/Documents/Dev/Portfolio/portfolio/src/pages/404.js",
@@ -1891,7 +2047,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "feee6420a4d47267d7d2beda64d22537",
+        "contentDigest": "a0637dd2cd29b4a2f7db169f965448ac",
         "owner": "internal-data-bridge"
       }
     },
@@ -1903,7 +2059,7 @@
       "component": "/home/pj/Documents/Dev/Portfolio/portfolio/src/pages/index.js",
       "componentChunkName": "component---src-pages-index-js",
       "context": {},
-      "updatedAt": 1524240820971,
+      "updatedAt": 1524246672467,
       "pluginCreator___NODE": "Plugin component-page-creator",
       "pluginCreatorId": "Plugin component-page-creator",
       "componentPath": "/home/pj/Documents/Dev/Portfolio/portfolio/src/pages/index.js",
@@ -1912,7 +2068,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "f9a9c99ca0495a9e332c5d4aaee9bfd6",
+        "contentDigest": "00a25ce6e6e78efb6a50d09045190514",
         "owner": "internal-data-bridge"
       }
     },
@@ -1924,7 +2080,7 @@
       "component": "/home/pj/Documents/Dev/Portfolio/portfolio/src/pages/404.js",
       "componentChunkName": "component---src-pages-404-js",
       "context": {},
-      "updatedAt": 1524240820972,
+      "updatedAt": 1524246672470,
       "pluginCreator___NODE": "Plugin prod-404",
       "pluginCreatorId": "Plugin prod-404",
       "componentPath": "/home/pj/Documents/Dev/Portfolio/portfolio/src/pages/404.js",
@@ -1933,7 +2089,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "66ea8ad3273386f0627bca3875a6de43",
+        "contentDigest": "a196af6e887a52f5986f51c8cbfa77ae",
         "owner": "internal-data-bridge"
       }
     }
