@@ -859,7 +859,7 @@ header .banner {
   vertical-align: middle;
   margin: 0 auto;
   width: 85%;
-  padding-bottom: 15%;
+  padding-bottom: 12%;
   text-align: center;
 }
 
@@ -1398,23 +1398,51 @@ ul#nav li.current a {
 /* ------------------------------------------------------------------ */
 
 #portfolio {
-  background: #EDEDED;
-  padding-top: 90px;
+  background: rgb(240, 239, 239);
+  padding-top: 70px;
   padding-bottom: 60px;
 }
 #portfolio h1 {
-  font: 15px/24px "opensans-semibold", sans-serif;
+  font: 32px/32px "permanent marker", cursive;
   text-transform: uppercase;
   letter-spacing: 1px;
   text-align: center;
   margin-bottom: 48px;
-  color: #95a3a3;
+  color: #354244;
+}
+
+#portfolio h2 {
+  font: 24px/24px "opensans-bold", sans-serif;
+  text-transform: uppercase;
+  letter-spacing: 1px;
+  margin-bottom: 8px;
+  color: #354244;
+}
+
+#portfolio h4 {
+  font: 16px/16px "opensans-bold", sans-serif;
+  /* text-transform: uppercase; */
+  letter-spacing: 1px;
+  margin-bottom: 24px;
+  color: #354244;
+}
+
+#portfolio ul{
+  /* font: 18px/10px "josefin sans", sans-serif; */
+  /* text-transform: uppercase; */
+  letter-spacing: 1px;
+  margin-bottom: 24px;
+  color: #354244;
 }
 
 /* Portfolio Content */
 #portfolio-wrapper .columns {
   margin-bottom: 36px;
+  height: 500px;
 }
+
+
+
 .portfolio-item .item-wrap {
   background: #fff;
   overflow: hidden;
@@ -1504,8 +1532,8 @@ ul#nav li.current a {
 
 /* popup modal */
 .popup-modal {
-  max-width: 550px;
-  background: #fff;
+  /* max-width: 550px; */
+  background: #414141d3;
   position: relative;
   margin: 0 auto;
 }
