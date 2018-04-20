@@ -8,7 +8,7 @@
       "component": "/home/pj/Documents/Dev/Portfolio/portfolio/.cache/dev-404-page.js",
       "componentChunkName": "component---cache-dev-404-page-js",
       "context": {},
-      "updatedAt": 1524230037729,
+      "updatedAt": 1524235747528,
       "pluginCreator___NODE": "Plugin dev-404-page",
       "pluginCreatorId": "Plugin dev-404-page",
       "componentPath": "/home/pj/Documents/Dev/Portfolio/portfolio/.cache/dev-404-page.js",
@@ -17,7 +17,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "c3462b15c4882749b91c15404101263f",
+        "contentDigest": "588d7ef4a432c99dc301e9b9732398f0",
         "owner": "internal-data-bridge"
       }
     },
@@ -1161,12 +1161,12 @@
       "host": "localhost",
       "pathPrefix": "",
       "polyfill": true,
-      "buildTime": "2018-04-20T13:13:55.331Z",
+      "buildTime": "2018-04-20T14:48:42.182Z",
       "id": "Site",
       "parent": "SOURCE",
       "children": [],
       "internal": {
-        "contentDigest": "6e9ed56f3ec739a57de1f99f2aa6c96e",
+        "contentDigest": "08cf1eba05ff484eaec385b3d53f2593",
         "type": "Site",
         "owner": "internal-data-bridge"
       }
@@ -1176,7 +1176,7 @@
       "children": [],
       "parent": "___SOURCE___",
       "internal": {
-        "contentDigest": "0f1deeaa5a3d72fc743612ca4da7d7a4",
+        "contentDigest": "29faf7b2dc43ccbafab2bcb22be146eb",
         "type": "Directory",
         "owner": "gatsby-source-filesystem"
       },
@@ -1186,10 +1186,10 @@
       "extension": "",
       "size": 4096,
       "prettySize": "4.1 kB",
-      "modifiedTime": "2018-04-19T18:37:59.647Z",
-      "accessTime": "2018-04-19T18:38:03.951Z",
-      "changeTime": "2018-04-19T18:37:59.647Z",
-      "birthTime": "2018-04-19T18:37:59.647Z",
+      "modifiedTime": "2018-04-20T14:46:15.613Z",
+      "accessTime": "2018-04-20T14:47:04.600Z",
+      "changeTime": "2018-04-20T14:46:15.613Z",
+      "birthTime": "2018-04-20T14:46:15.613Z",
       "root": "/",
       "dir": "/home/pj/Documents/Dev/Portfolio/portfolio/src/assets",
       "base": "images",
@@ -1205,14 +1205,14 @@
       "blksize": 4096,
       "ino": 8077604,
       "blocks": 8,
-      "atimeMs": 1524163083950.8894,
-      "mtimeMs": 1524163079646.91,
-      "ctimeMs": 1524163079646.91,
-      "birthtimeMs": 1524163079646.91,
-      "atime": "2018-04-19T18:38:03.951Z",
-      "mtime": "2018-04-19T18:37:59.647Z",
-      "ctime": "2018-04-19T18:37:59.647Z",
-      "birthtime": "2018-04-19T18:37:59.647Z"
+      "atimeMs": 1524235624599.5718,
+      "mtimeMs": 1524235575613.425,
+      "ctimeMs": 1524235575613.425,
+      "birthtimeMs": 1524235575613.425,
+      "atime": "2018-04-20T14:47:04.600Z",
+      "mtime": "2018-04-20T14:46:15.613Z",
+      "ctime": "2018-04-20T14:46:15.613Z",
+      "birthtime": "2018-04-20T14:46:15.613Z"
     },
     "/home/pj/Documents/Dev/Portfolio/portfolio/src/assets/images/portfolio absPath of file": {
       "id": "/home/pj/Documents/Dev/Portfolio/portfolio/src/assets/images/portfolio absPath of file",
@@ -2688,6 +2688,286 @@
         "owner": "gatsby-transformer-sharp"
       }
     },
+    "/home/pj/Documents/Dev/Portfolio/portfolio/src/assets/images/concoctail-home.png absPath of file": {
+      "id": "/home/pj/Documents/Dev/Portfolio/portfolio/src/assets/images/concoctail-home.png absPath of file",
+      "children": [
+        "/home/pj/Documents/Dev/Portfolio/portfolio/src/assets/images/concoctail-home.png absPath of file >> ImageSharp"
+      ],
+      "parent": "___SOURCE___",
+      "internal": {
+        "contentDigest": "3748e5a4a492f8e63dd6fc390816f76a",
+        "mediaType": "image/png",
+        "type": "File",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "images",
+      "absolutePath": "/home/pj/Documents/Dev/Portfolio/portfolio/src/assets/images/concoctail-home.png",
+      "relativePath": "concoctail-home.png",
+      "extension": "png",
+      "size": 40052,
+      "prettySize": "40.1 kB",
+      "modifiedTime": "2018-04-20T14:25:48.719Z",
+      "accessTime": "2018-04-20T14:30:49.508Z",
+      "changeTime": "2018-04-20T14:26:05.865Z",
+      "birthTime": "2018-04-20T14:26:05.865Z",
+      "root": "/",
+      "dir": "/home/pj/Documents/Dev/Portfolio/portfolio/src/assets/images",
+      "base": "concoctail-home.png",
+      "ext": ".png",
+      "name": "concoctail-home",
+      "relativeDirectory": "",
+      "dev": 2058,
+      "mode": 33204,
+      "nlink": 1,
+      "uid": 1000,
+      "gid": 1000,
+      "rdev": 0,
+      "blksize": 4096,
+      "ino": 4200293,
+      "blocks": 88,
+      "atimeMs": 1524234649507.6267,
+      "mtimeMs": 1524234348719.361,
+      "ctimeMs": 1524234365864.9534,
+      "birthtimeMs": 1524234365864.9534,
+      "atime": "2018-04-20T14:30:49.508Z",
+      "mtime": "2018-04-20T14:25:48.719Z",
+      "ctime": "2018-04-20T14:26:05.865Z",
+      "birthtime": "2018-04-20T14:26:05.865Z"
+    },
+    "/home/pj/Documents/Dev/Portfolio/portfolio/src/assets/images/concoctail-random.png absPath of file": {
+      "id": "/home/pj/Documents/Dev/Portfolio/portfolio/src/assets/images/concoctail-random.png absPath of file",
+      "children": [
+        "/home/pj/Documents/Dev/Portfolio/portfolio/src/assets/images/concoctail-random.png absPath of file >> ImageSharp"
+      ],
+      "parent": "___SOURCE___",
+      "internal": {
+        "contentDigest": "3e9b45dfb9b484889d60fc66de6ce531",
+        "mediaType": "image/png",
+        "type": "File",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "images",
+      "absolutePath": "/home/pj/Documents/Dev/Portfolio/portfolio/src/assets/images/concoctail-random.png",
+      "relativePath": "concoctail-random.png",
+      "extension": "png",
+      "size": 115551,
+      "prettySize": "116 kB",
+      "modifiedTime": "2018-04-20T14:30:47.952Z",
+      "accessTime": "2018-04-20T14:37:20.253Z",
+      "changeTime": "2018-04-20T14:30:53.108Z",
+      "birthTime": "2018-04-20T14:30:53.108Z",
+      "root": "/",
+      "dir": "/home/pj/Documents/Dev/Portfolio/portfolio/src/assets/images",
+      "base": "concoctail-random.png",
+      "ext": ".png",
+      "name": "concoctail-random",
+      "relativeDirectory": "",
+      "dev": 2058,
+      "mode": 33204,
+      "nlink": 1,
+      "uid": 1000,
+      "gid": 1000,
+      "rdev": 0,
+      "blksize": 4096,
+      "ino": 4200290,
+      "blocks": 240,
+      "atimeMs": 1524235040253.174,
+      "mtimeMs": 1524234647951.6519,
+      "ctimeMs": 1524234653107.5708,
+      "birthtimeMs": 1524234653107.5708,
+      "atime": "2018-04-20T14:37:20.253Z",
+      "mtime": "2018-04-20T14:30:47.952Z",
+      "ctime": "2018-04-20T14:30:53.108Z",
+      "birthtime": "2018-04-20T14:30:53.108Z"
+    },
+    "/home/pj/Documents/Dev/Portfolio/portfolio/src/assets/images/concoctail-home.png absPath of file >> ImageSharp": {
+      "id": "/home/pj/Documents/Dev/Portfolio/portfolio/src/assets/images/concoctail-home.png absPath of file >> ImageSharp",
+      "children": [],
+      "parent": "/home/pj/Documents/Dev/Portfolio/portfolio/src/assets/images/concoctail-home.png absPath of file",
+      "internal": {
+        "contentDigest": "3748e5a4a492f8e63dd6fc390816f76a",
+        "type": "ImageSharp",
+        "owner": "gatsby-transformer-sharp"
+      }
+    },
+    "/home/pj/Documents/Dev/Portfolio/portfolio/src/assets/images/concoctail-random.png absPath of file >> ImageSharp": {
+      "id": "/home/pj/Documents/Dev/Portfolio/portfolio/src/assets/images/concoctail-random.png absPath of file >> ImageSharp",
+      "children": [],
+      "parent": "/home/pj/Documents/Dev/Portfolio/portfolio/src/assets/images/concoctail-random.png absPath of file",
+      "internal": {
+        "contentDigest": "3e9b45dfb9b484889d60fc66de6ce531",
+        "type": "ImageSharp",
+        "owner": "gatsby-transformer-sharp"
+      }
+    },
+    "/home/pj/Documents/Dev/Portfolio/portfolio/src/assets/images/concoctail-random-2.png absPath of file": {
+      "id": "/home/pj/Documents/Dev/Portfolio/portfolio/src/assets/images/concoctail-random-2.png absPath of file",
+      "children": [
+        "/home/pj/Documents/Dev/Portfolio/portfolio/src/assets/images/concoctail-random-2.png absPath of file >> ImageSharp"
+      ],
+      "parent": "___SOURCE___",
+      "internal": {
+        "contentDigest": "a5198e3191276734aa23c70f58509971",
+        "mediaType": "image/png",
+        "type": "File",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "images",
+      "absolutePath": "/home/pj/Documents/Dev/Portfolio/portfolio/src/assets/images/concoctail-random-2.png",
+      "relativePath": "concoctail-random-2.png",
+      "extension": "png",
+      "size": 497147,
+      "prettySize": "497 kB",
+      "modifiedTime": "2018-04-20T14:41:33.083Z",
+      "accessTime": "2018-04-20T14:45:56.676Z",
+      "changeTime": "2018-04-20T14:41:42.999Z",
+      "birthTime": "2018-04-20T14:41:42.999Z",
+      "root": "/",
+      "dir": "/home/pj/Documents/Dev/Portfolio/portfolio/src/assets/images",
+      "base": "concoctail-random-2.png",
+      "ext": ".png",
+      "name": "concoctail-random-2",
+      "relativeDirectory": "",
+      "dev": 2058,
+      "mode": 33204,
+      "nlink": 1,
+      "uid": 1000,
+      "gid": 1000,
+      "rdev": 0,
+      "blksize": 4096,
+      "ino": 4216392,
+      "blocks": 984,
+      "atimeMs": 1524235556676.062,
+      "mtimeMs": 1524235293082.6199,
+      "ctimeMs": 1524235302999.0264,
+      "birthtimeMs": 1524235302999.0264,
+      "atime": "2018-04-20T14:45:56.676Z",
+      "mtime": "2018-04-20T14:41:33.083Z",
+      "ctime": "2018-04-20T14:41:42.999Z",
+      "birthtime": "2018-04-20T14:41:42.999Z"
+    },
+    "/home/pj/Documents/Dev/Portfolio/portfolio/src/assets/images/concoctail-random-2.png absPath of file >> ImageSharp": {
+      "id": "/home/pj/Documents/Dev/Portfolio/portfolio/src/assets/images/concoctail-random-2.png absPath of file >> ImageSharp",
+      "children": [],
+      "parent": "/home/pj/Documents/Dev/Portfolio/portfolio/src/assets/images/concoctail-random-2.png absPath of file",
+      "internal": {
+        "contentDigest": "a5198e3191276734aa23c70f58509971",
+        "type": "ImageSharp",
+        "owner": "gatsby-transformer-sharp"
+      }
+    },
+    "/home/pj/Documents/Dev/Portfolio/portfolio/src/assets/images/portfolio-banner.png absPath of file": {
+      "id": "/home/pj/Documents/Dev/Portfolio/portfolio/src/assets/images/portfolio-banner.png absPath of file",
+      "children": [
+        "/home/pj/Documents/Dev/Portfolio/portfolio/src/assets/images/portfolio-banner.png absPath of file >> ImageSharp"
+      ],
+      "parent": "___SOURCE___",
+      "internal": {
+        "contentDigest": "52ff2774ce88529c7283348a7e4929d8",
+        "mediaType": "image/png",
+        "type": "File",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "images",
+      "absolutePath": "/home/pj/Documents/Dev/Portfolio/portfolio/src/assets/images/portfolio-banner.png",
+      "relativePath": "portfolio-banner.png",
+      "extension": "png",
+      "size": 1604867,
+      "prettySize": "1.6 MB",
+      "modifiedTime": "2018-04-20T14:45:55.732Z",
+      "accessTime": "2018-04-20T14:45:55.452Z",
+      "changeTime": "2018-04-20T14:46:15.613Z",
+      "birthTime": "2018-04-20T14:46:15.613Z",
+      "root": "/",
+      "dir": "/home/pj/Documents/Dev/Portfolio/portfolio/src/assets/images",
+      "base": "portfolio-banner.png",
+      "ext": ".png",
+      "name": "portfolio-banner",
+      "relativeDirectory": "",
+      "dev": 2058,
+      "mode": 33204,
+      "nlink": 1,
+      "uid": 1000,
+      "gid": 1000,
+      "rdev": 0,
+      "blksize": 4096,
+      "ino": 4209561,
+      "blocks": 3144,
+      "atimeMs": 1524235555452.2402,
+      "mtimeMs": 1524235555732.1995,
+      "ctimeMs": 1524235575613.425,
+      "birthtimeMs": 1524235575613.425,
+      "atime": "2018-04-20T14:45:55.452Z",
+      "mtime": "2018-04-20T14:45:55.732Z",
+      "ctime": "2018-04-20T14:46:15.613Z",
+      "birthtime": "2018-04-20T14:46:15.613Z"
+    },
+    "/home/pj/Documents/Dev/Portfolio/portfolio/src/assets/images/portfolio-banner.png absPath of file >> ImageSharp": {
+      "id": "/home/pj/Documents/Dev/Portfolio/portfolio/src/assets/images/portfolio-banner.png absPath of file >> ImageSharp",
+      "children": [],
+      "parent": "/home/pj/Documents/Dev/Portfolio/portfolio/src/assets/images/portfolio-banner.png absPath of file",
+      "internal": {
+        "contentDigest": "52ff2774ce88529c7283348a7e4929d8",
+        "type": "ImageSharp",
+        "owner": "gatsby-transformer-sharp"
+      }
+    },
+    "/home/pj/Documents/Dev/Portfolio/portfolio/src/assets/images/concoctail-mybar.png absPath of file": {
+      "id": "/home/pj/Documents/Dev/Portfolio/portfolio/src/assets/images/concoctail-mybar.png absPath of file",
+      "children": [
+        "/home/pj/Documents/Dev/Portfolio/portfolio/src/assets/images/concoctail-mybar.png absPath of file >> ImageSharp"
+      ],
+      "parent": "___SOURCE___",
+      "internal": {
+        "contentDigest": "dd85f49a1f3f64bd964b8a1191588fad",
+        "mediaType": "image/png",
+        "type": "File",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "images",
+      "absolutePath": "/home/pj/Documents/Dev/Portfolio/portfolio/src/assets/images/concoctail-mybar.png",
+      "relativePath": "concoctail-mybar.png",
+      "extension": "png",
+      "size": 1469231,
+      "prettySize": "1.47 MB",
+      "modifiedTime": "2018-04-20T14:37:17.409Z",
+      "accessTime": "2018-04-20T14:37:17.133Z",
+      "changeTime": "2018-04-20T14:37:27.901Z",
+      "birthTime": "2018-04-20T14:37:27.901Z",
+      "root": "/",
+      "dir": "/home/pj/Documents/Dev/Portfolio/portfolio/src/assets/images",
+      "base": "concoctail-mybar.png",
+      "ext": ".png",
+      "name": "concoctail-mybar",
+      "relativeDirectory": "",
+      "dev": 2058,
+      "mode": 33204,
+      "nlink": 1,
+      "uid": 1000,
+      "gid": 1000,
+      "rdev": 0,
+      "blksize": 4096,
+      "ino": 4195424,
+      "blocks": 2880,
+      "atimeMs": 1524235037133.073,
+      "mtimeMs": 1524235037409.0818,
+      "ctimeMs": 1524235047901.4238,
+      "birthtimeMs": 1524235047901.4238,
+      "atime": "2018-04-20T14:37:17.133Z",
+      "mtime": "2018-04-20T14:37:17.409Z",
+      "ctime": "2018-04-20T14:37:27.901Z",
+      "birthtime": "2018-04-20T14:37:27.901Z"
+    },
+    "/home/pj/Documents/Dev/Portfolio/portfolio/src/assets/images/concoctail-mybar.png absPath of file >> ImageSharp": {
+      "id": "/home/pj/Documents/Dev/Portfolio/portfolio/src/assets/images/concoctail-mybar.png absPath of file >> ImageSharp",
+      "children": [],
+      "parent": "/home/pj/Documents/Dev/Portfolio/portfolio/src/assets/images/concoctail-mybar.png absPath of file",
+      "internal": {
+        "contentDigest": "dd85f49a1f3f64bd964b8a1191588fad",
+        "type": "ImageSharp",
+        "owner": "gatsby-transformer-sharp"
+      }
+    },
     "SitePage /404/": {
       "layout": "index",
       "jsonName": "404.json",
@@ -2696,7 +2976,7 @@
       "component": "/home/pj/Documents/Dev/Portfolio/portfolio/src/pages/404.js",
       "componentChunkName": "component---src-pages-404-js",
       "context": {},
-      "updatedAt": 1524230037736,
+      "updatedAt": 1524235747534,
       "pluginCreator___NODE": "Plugin component-page-creator",
       "pluginCreatorId": "Plugin component-page-creator",
       "componentPath": "/home/pj/Documents/Dev/Portfolio/portfolio/src/pages/404.js",
@@ -2705,7 +2985,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "db56d6d06a95654bad17b71cc9582ffd",
+        "contentDigest": "babfb0923bfcf4b6fb7cc6e617054895",
         "owner": "internal-data-bridge"
       }
     },
@@ -2717,7 +2997,7 @@
       "component": "/home/pj/Documents/Dev/Portfolio/portfolio/src/pages/index.js",
       "componentChunkName": "component---src-pages-index-js",
       "context": {},
-      "updatedAt": 1524230037737,
+      "updatedAt": 1524235747534,
       "pluginCreator___NODE": "Plugin component-page-creator",
       "pluginCreatorId": "Plugin component-page-creator",
       "componentPath": "/home/pj/Documents/Dev/Portfolio/portfolio/src/pages/index.js",
@@ -2726,7 +3006,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "e9cd5af03152e93e7ba26510192510c4",
+        "contentDigest": "89cb2f121fc10890a50430347b4e8222",
         "owner": "internal-data-bridge"
       }
     },
@@ -2738,7 +3018,7 @@
       "component": "/home/pj/Documents/Dev/Portfolio/portfolio/src/pages/404.js",
       "componentChunkName": "component---src-pages-404-js",
       "context": {},
-      "updatedAt": 1524230037739,
+      "updatedAt": 1524235747536,
       "pluginCreator___NODE": "Plugin prod-404",
       "pluginCreatorId": "Plugin prod-404",
       "componentPath": "/home/pj/Documents/Dev/Portfolio/portfolio/src/pages/404.js",
@@ -2747,7 +3027,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "45cef4afa97e6fe727d96056bc7568b7",
+        "contentDigest": "be7b3d86b6cf0ea5fb3c2692bd40dab3",
         "owner": "internal-data-bridge"
       }
     }

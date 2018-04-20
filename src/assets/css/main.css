@@ -1402,43 +1402,67 @@ ul#nav li.current a {
   padding-top: 70px;
   padding-bottom: 60px;
 }
+
 #portfolio h1 {
-  font: 32px/32px "permanent marker", cursive;
+  font: 36px/36px "permanent marker", cursive;
   text-transform: uppercase;
   letter-spacing: 1px;
   text-align: center;
-  margin-bottom: 48px;
+  margin-bottom: 60px;
+  margin-left: 30%;
   color: #354244;
+  width: 40%;
+  /* display: inline-block; */
+  border-bottom: 3px solid #354244;
 }
 
 #portfolio h2 {
   font: 24px/24px "opensans-bold", sans-serif;
   text-transform: uppercase;
+  text-align: center;
   letter-spacing: 1px;
   margin-bottom: 8px;
   color: #354244;
 }
 
 #portfolio h4 {
-  font: 16px/16px "opensans-bold", sans-serif;
+  font: 20px/20px "opensans-bold", sans-serif;
   /* text-transform: uppercase; */
+  text-align: center;
   letter-spacing: 1px;
   margin-bottom: 24px;
   color: #354244;
 }
 
 #portfolio ul{
-  /* font: 18px/10px "josefin sans", sans-serif; */
+  font: 16px/10px "josefin sans", sans-serif;
   /* text-transform: uppercase; */
   letter-spacing: 1px;
   margin-bottom: 24px;
   color: #354244;
 }
 
+#portfolio .description .button {
+  font: 16px/12px "opensans-bold", sans-serif;
+  margin-top: 6px;
+  background: #ffffff;
+  border-radius: 30px;
+  color: #11abb0;
+}
+
+#portfolio .description .button:hover {
+  background: #effaff
+}
+
+#portfolio .description .button i {
+  margin-right: 15px;
+  font-size: 20px;
+}
+
 /* Portfolio Content */
 #portfolio-wrapper .columns {
   margin-bottom: 36px;
-  height: 500px;
+  height: 300px;
 }
 
 
@@ -1530,54 +1554,8 @@ ul#nav li.current a {
   filter: alpha(opacity=100);
 }
 
-/* popup modal */
-.popup-modal {
-  /* max-width: 550px; */
-  background: #414141d3;
-  position: relative;
-  margin: 0 auto;
-}
-.popup-modal .description-box {
-  padding: 12px 36px 18px 36px;
-}
-.popup-modal .description-box h4 {
-  font: 15px/24px "opensans-bold", sans-serif;
-  margin-bottom: 12px;
-  color: #111;
-}
-.popup-modal .description-box p {
-  font: 14px/24px "opensans-regular", sans-serif;
-  color: #a1a1a1;
-  margin-bottom: 12px;
-}
-.popup-modal .description-box .categories {
-  font: 11px/21px "opensans-light", sans-serif;
-  color: #a1a1a1;
-  text-transform: uppercase;
-  letter-spacing: 2px;
-  display: block;
-  text-align: left;
-}
-.popup-modal .description-box .categories i {
-  margin-right: 8px;
-}
-.popup-modal .link-box {
-  padding: 18px 36px;
-  background: #111;
-  text-align: left;
-}
-.popup-modal .link-box a {
-  color: #fff;
-  font: 11px/21px "opensans-bold", sans-serif;
-  text-transform: uppercase;
-  letter-spacing: 3px;
-  cursor: pointer;
-}
-.popup-modal a:hover {
-  color: #00cccc;
-}
-.popup-modal a.popup-modal-dismiss {
-  margin-left: 24px;
+.portfolio-item button {
+  margin-right: 10px;
 }
 
 /* fadein/fadeout effect for modal popup
