@@ -1043,7 +1043,7 @@ ul#nav li.current a {
 /* ------------------------------------------------------------------ */
 
 #about {
-  background: rgb(52, 63, 66);
+  background: #343f42;
   padding-top: 96px;
   padding-bottom: 66px;
   overflow: hidden;
@@ -1058,20 +1058,34 @@ ul#nav li.current a {
   color: #11abb0;
 }
 
+#about h1 {
+  font: 32px/32px "permanent marker", cursive;
+  color: #00AFAD;
+  margin-bottom: 18px;
+}
+
 #about h2 {
   font: 22px/30px "opensans-bold", sans-serif;
   color: #fff;
+  margin-top: 12px;
   margin-bottom: 12px;
 }
+
 #about p {
+  font: 16px/30px "opensans-bold", sans-serif;
   line-height: 30px;
-  color: #7a7a7a;
+  color: #dfded5;
 }
+
+#about .profile{
+  text-align: center;
+}
+
 #about .profile-pic {
   position: relative;
-  width: 180px;
-  height: 180px;
-  border: 3px solid #C5E2D6;
+  width: 280px;
+  height: 280px;
+  border: 3px solid #dfded5;
   border-radius: 25%;
 }
 #about .contact-details {
@@ -1085,12 +1099,14 @@ ul#nav li.current a {
   padding-right: 5%;
 }
 #about .download .button {
+  font: 18px/24px "opensans-bold", sans-serif;
   margin-top: 6px;
-  background: #444;
+  background: #fffef6;
+  border-radius: 30px;
+  color: #2b2b2b;
 }
 #about .download .button:hover {
-  background: #fff;
-  color: #2b2b2b;
+  background: #ffe865;
 }
 #about .download .button i {
   margin-right: 15px;
@@ -1174,8 +1190,8 @@ ul#nav li.current a {
 .bars li {
   position: relative;
   margin-bottom: 60px;
-  background: #ccc;
-  height: 42px;
+  background: rgb(204, 218, 221);
+  height: 24px;
   border-radius: 3px;
 }
 .bars li em {
@@ -1185,7 +1201,7 @@ ul#nav li.current a {
   letter-spacing: 2px;
   font-weight: normal;
   position: relative;
-  top: -36px;
+  top: -30px;
 }
 .bar-expand {
   position: absolute;
@@ -1196,74 +1212,53 @@ ul#nav li.current a {
   padding-right: 24px;
   background: #11abb0;
   display: inline-block;
-  height: 42px;
-  line-height: 42px;
+  height: 24px;
+  line-height: 24px;
   border-radius: 3px 0 0 3px;
 }
 
-.photoshop {
-  width: 60%;
-  -moz-animation: photoshop 2s ease;
-  -webkit-animation: photoshop 2s ease;
-}
-.illustrator {
-  width: 55%;
-  -moz-animation: illustrator 2s ease;
-  -webkit-animation: illustrator 2s ease;
-}
-.wordpress {
-  width: 50%;
-  -moz-animation: wordpress 2s ease;
-  -webkit-animation: wordpress 2s ease;
-}
-.css {
-  width: 90%;
-  -moz-animation: css 2s ease;
-  -webkit-animation: css 2s ease;
-}
 .html5 {
   width: 80%;
   -moz-animation: html5 2s ease;
   -webkit-animation: html5 2s ease;
 }
-.jquery {
-  width: 50%;
-  -moz-animation: jquery 2s ease;
-  -webkit-animation: jquery 2s ease;
+.css {
+  width: 60%;
+  -moz-animation: css 2s ease;
+  -webkit-animation: css 2s ease;
+}
+.javascript {
+  width: 90%;
+  -moz-animation: javascript 2s ease;
+  -webkit-animation: javascript 2s ease;
+}
+.react {
+  width: 80%;
+  -moz-animation: react 2s ease;
+  -webkit-animation: react 2s ease;
+}
+.nodejs {
+  width: 70%;
+  -moz-animation: nodejs 2s ease;
+  -webkit-animation: nodejs 2s ease;
+}
+.ruby-on-rails {
+  width: 90%;
+  -moz-animation: ruby-on-rails 2s ease;
+  -webkit-animation: ruby-on-rails 2s ease;
+}
+.mongodb {
+  width: 60%;
+  -moz-animation: mongodb 2s ease;
+  -webkit-animation: mongodb 2s ease;
+}
+.sqlite3 {
+  width: 80%;
+  -moz-animation: sqlite3 2s ease;
+  -webkit-animation: sqlite3 2s ease;
 }
 
-@-moz-keyframes photoshop {
-  0% {
-    width: 0px;
-  }
-  100% {
-    width: 60%;
-  }
-}
-@-moz-keyframes illustrator {
-  0% {
-    width: 0px;
-  }
-  100% {
-    width: 55%;
-  }
-}
-@-moz-keyframes wordpress {
-  0% {
-    width: 0px;
-  }
-  100% {
-    width: 50%;
-  }
-}
-@-moz-keyframes css {
-  0% {
-    width: 0px;
-  }
-  100% {
-    width: 90%;
-  }
-}
+
 @-moz-keyframes html5 {
   0% {
     width: 0px;
@@ -1272,16 +1267,7 @@ ul#nav li.current a {
     width: 80%;
   }
 }
-@-moz-keyframes jquery {
-  0% {
-    width: 0px;
-  }
-  100% {
-    width: 50%;
-  }
-}
-
-@-webkit-keyframes photoshop {
+@-moz-keyframes css {
   0% {
     width: 0px;
   }
@@ -1289,23 +1275,7 @@ ul#nav li.current a {
     width: 60%;
   }
 }
-@-webkit-keyframes illustrator {
-  0% {
-    width: 0px;
-  }
-  100% {
-    width: 55%;
-  }
-}
-@-webkit-keyframes wordpress {
-  0% {
-    width: 0px;
-  }
-  100% {
-    width: 50%;
-  }
-}
-@-webkit-keyframes css {
+@-moz-keyframes javascript {
   0% {
     width: 0px;
   }
@@ -1313,6 +1283,48 @@ ul#nav li.current a {
     width: 90%;
   }
 }
+@-moz-keyframes react {
+  0% {
+    width: 0px;
+  }
+  100% {
+    width: 80%;
+  }
+}
+@-moz-keyframes nodejs {
+  0% {
+    width: 0px;
+  }
+  100% {
+    width: 70%;
+  }
+}
+@-moz-keyframes ruby-on-rails {
+  0% {
+    width: 0px;
+  }
+  100% {
+    width: 90%;
+  }
+}
+@-moz-keyframes mongodb {
+  0% {
+    width: 0px;
+  }
+  100% {
+    width: 60%;
+  }
+}
+@-moz-keyframes sqlite3 {
+  0% {
+    width: 0px;
+  }
+  100% {
+    width: 80%;
+  }
+}
+
+
 @-webkit-keyframes html5 {
   0% {
     width: 0px;
@@ -1321,14 +1333,63 @@ ul#nav li.current a {
     width: 80%;
   }
 }
-@-webkit-keyframes jquery {
+@-webkit-keyframes css {
   0% {
     width: 0px;
   }
   100% {
-    width: 50%;
+    width: 60%;
   }
 }
+@-webkit-keyframes javascript {
+  0% {
+    width: 0px;
+  }
+  100% {
+    width: 90%;
+  }
+}
+@-webkit-keyframes react {
+  0% {
+    width: 0px;
+  }
+  100% {
+    width: 80%;
+  }
+}
+@-webkit-keyframes nodejs {
+  0% {
+    width: 0px;
+  }
+  100% {
+    width: 70%;
+  }
+}
+@-webkit-keyframes ruby-on-rails {
+  0% {
+    width: 0px;
+  }
+  100% {
+    width: 90%;
+  }
+}
+@-webkit-keyframes mongodb {
+  0% {
+    width: 0px;
+  }
+  100% {
+    width: 60%;
+  }
+}
+@-webkit-keyframes sqlite3 {
+  0% {
+    width: 0px;
+  }
+  100% {
+    width: 80%;
+  }
+}
+
 
 /* ------------------------------------------------------------------ */
 /* e. Portfolio Section

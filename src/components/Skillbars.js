@@ -10,34 +10,42 @@ const Skills = () => (
 
     <div className="nine columns main-col">
       <p>
-        Full stack web developer with a knack for solving problems, delivering elegant solutions, and building software that drives change. Experience in Ruby on Rails, Javascript frameworks (Node.js / Express, React.js), databases (sqlite3, MongoDB), and general web-development (HTML, CSS, JQuery, Bootstrap). I bring strong skills in project management, team collaboration, and customer satisfaction that help industry leaders improve productivity and increase sales.
+        Experience in Ruby on Rails, Javascript frameworks (Node.js, React.js), databases (sqlite3, MongoDB), and general web-development (HTML, CSS, JQuery, Bootstrap). If you ever need someone to learn a new technology to get a project done, I'm your guy.
       </p>
 
       <div className="bars">
         <ul className="skills">
           <li>
-            <span className="bar-expand photoshop" />
-            <em>Photoshop</em>
-          </li>
-          <li>
-            <span className="bar-expand illustrator" />
-            <em>Illustrator</em>
-          </li>
-          <li>
-            <span className="bar-expand wordpress" />
-            <em>Wordpress</em>
+            <span className="bar-expand html5" />
+            <em>HTML5</em>
           </li>
           <li>
             <span className="bar-expand css" />
             <em>CSS</em>
           </li>
           <li>
-            <span className="bar-expand html5" />
-            <em>HTML5</em>
+            <span className="bar-expand javascript" />
+            <em>Javascript</em>
+          </li>
+          <li>
+            <span className="bar-expand react" />
+            <em>React</em>
           </li>
           <li>
             <span className="bar-expand nodejs" />
-            <em>Nodejs</em>
+            <em>NodeJS</em>
+          </li>
+          <li>
+            <span className="bar-expand ruby-on-rails" />
+            <em>Ruby on Rails</em>
+          </li>
+          <li>
+            <span className="bar-expand mongodb" />
+            <em>MongoDB</em>
+          </li>
+          <li>
+            <span className="bar-expand sqlite3" />
+            <em>Sqlite3</em>
           </li>
         </ul>
       </div>
