@@ -10,7 +10,7 @@ const Skills = () => (
 
     <div className="nine columns main-col">
       <p>
-        Experience in Ruby on Rails, Javascript frameworks (Node.js, React.js), databases (sqlite3, MongoDB), and general web-development (HTML, CSS, JQuery, Bootstrap). If you ever need someone to learn a new technology to get a project done, I'm your guy.
+        Experience in Ruby on Rails, Javascript and Javascript frameworks (React.js, Node.js), databases (sqlite3, MongoDB), and general web-development (HTML, CSS, JQuery, Bootstrap). Always excited to learn new technologies to better suit projects and make ideas come to life.
       </p>
 
       <div className="bars">

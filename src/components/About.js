@@ -1,5 +1,5 @@
 import React from "react";
-import { FaFileTextO, FaPaw } from "react-icons/lib/fa";
+import { FaFilePdfO, FaPaw } from "react-icons/lib/fa";
 
 import profilePic from "../assets/images/profilepic.jpg";
 import resume from "../assets/resume.pdf";
@@ -11,21 +11,23 @@ const About = () => (
         <img className="profile-pic" src={profilePic} alt="PJ Frias" />
       </div>
       <div className="eight columns main-col">
-        <h1>I love making things.</h1>
+        <a href="https://www.youtube.com/channel/UCDFwOPfbe25fR-ScaMz2uig" title="super secret link to my woodworking YT channel" target="_blank">
+          <h1>I love making things</h1>
+        </a>
         <p>
-          Whether it be through programming, woodworking, photography, or cooking, the combination of creative problem solving and technical challenge is what I live for. The satisfaction of using something I make, or better yet, knowing that someone else will be able to use and enjoy what I've built, is what fuels me to challenge myself and improve my skills in everything I do.
+          Whether it be through programming, woodworking, photography, or cooking, the intersection of creative problem solving and technical challenge is what I live for. I pride myself in being able to use what I create, and that is one of the most satisfying feelings for me. Better yet, building something that others will be able to use and enjoy, knowing my reputation rests on the quality of the final product, pushes me to always challenge myself and improve my skills in everything I do.
         </p>
         <p>
           I’ve built social platforms focused on community-empowerment, architectured an ecommerce webapp, and developed software to streamline processes and improve efficiency. I’m passionate about building up communities and committed to strengthening Baltimore’s software developer culture.
         </p>
         <p>
-          In my free time, I enjoy playing board games, trying new whiskeys, and relaxing at home with my wife and our child who is a cat. <FaPaw/>
+          In my free time, I enjoy playing ultimate frisbee, losing friendships over board games, trying new whiskeys, and relaxing at home with my wife and our child who is a cat. <FaPaw/>
         </p>
         <div className="row">
           <div className="columns download">
             <p>
-              <a href={resume} className="button">
-                <FaFileTextO /> Download Resume
+              <a href={resume} className="button" target="_blank">
+                <FaFilePdfO /> Download Resume
               </a>
             </p>
           </div>

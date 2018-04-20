@@ -22,7 +22,7 @@ module.exports = {
     {
       resolve: `gatsby-plugin-google-fonts`,
       options: {
-        fonts: [`librebaskerville`, `open sans`, `permanent marker`]
+        fonts: [`librebaskerville`, `open sans`, `permanent marker`, `andika`]
       }
     },
     {
