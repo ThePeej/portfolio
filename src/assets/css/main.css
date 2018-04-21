@@ -1435,12 +1435,15 @@ ul#nav li.current a {
 }
 
 #portfolio ul{
-  font: 14px/12px "josefin sans", sans-serif;
+  font: 14px/14px "josefin sans", sans-serif;
   /* font: 15px/12px "opensans-light", sans-serif; */
   /* text-transform: uppercase; */
   letter-spacing: 1px;
-  margin-bottom: 24px;
+  margin-bottom: 28px;
   color: #354244;
+}
+#portfolio li{
+  margin-bottom: 18px;
 }
 
 #portfolio .prayers .description {
@@ -1648,7 +1651,7 @@ ul#nav li.current a {
 }
 
 #contact h1 {
-  font: 30px/30px "opensans-bold", sans-serif;
+  font: 24px/24px "opensans-bold", sans-serif;
   text-transform: uppercase;
   letter-spacing: 3px;
   margin-top: 40px;
@@ -1682,7 +1685,8 @@ ul#nav li.current a {
   text-transform: uppercase;
   letter-spacing: 3px;
   color: #525252;
-  margin-bottom: 6px;
+  margin: 0 auto;
+  width: 25%;
 }
 
 #contact h4 {
