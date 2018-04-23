@@ -5,10 +5,15 @@ import { FaYoutubePlay, FaGithub } from "react-icons/lib/fa";
 
 const Prayers = () => {
   return (
-    <div>
+    <div className="prayers">
       <div className="summary">
         <h2>Prayers</h2>    
         <h4>A social space for words of encouragement, a platform built on community</h4>
+      </div>
+      <div className="columns portfolio-item mobile-only">
+        <a href={PrayersHome} target="_blank">
+          <img alt="Concoctail App" src={PrayersHome} />
+        </a>
       </div>
       <div className="columns portfolio-item description">
         <ul>
@@ -22,7 +27,7 @@ const Prayers = () => {
         <a href="https://youtu.be/G-wgw7763_E" target="_blank" className="video-demo button"><FaYoutubePlay /> Video Demo</a>
         <a href="https://github.com/ThePeej/prayers-rails-app" target="_blank" className="github button"><FaGithub /> Github Repo</a>
       </div>
-      <div className="columns portfolio-item">
+      <div className="columns portfolio-item desktop-only">
         <a href={PrayersHome} target="_blank">
           <img alt="Concoctail App" src={PrayersHome} />
         </a>

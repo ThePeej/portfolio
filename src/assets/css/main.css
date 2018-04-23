@@ -1466,7 +1466,15 @@ ul#nav li.current a {
   margin-bottom: 18px;
 }
 
-#portfolio .prayers .description {
+#portfolio .prayers .mobile-only {
+  display: none;
+}
+
+#portfolio .prayers .desktop-only {
+  display: block;
+}
+
+#portfolio .prayers {
   text-align: right;
 }
 
@@ -2161,8 +2169,8 @@ footer .social li:first-child {
 
  /* Skills Section
  --------------------------------------------------------------------- */
- #skills .icon{
-   
+ #skills{
+   text-align: center;
  }
  #skills .header-col {
     padding-top: 0;
@@ -2192,9 +2200,77 @@ footer .social li:first-child {
 
  /* Portfolio Section
  /* ----------------------------------------------------------------- */
- #portfolio-wrapper .columns { margin-bottom: 40px; }
- .popup-modal {	max-width: 85%; }
+ #portfolio {
+  background: #EEEEEF;
+  padding-top: 70px;
+  padding-bottom: 60px;
+}
 
+#portfolio h1 {
+  font: 24px/24px "permanent marker", cursive;
+  margin-bottom: 40px;
+  margin-left: 13%;
+
+  width: 74%;
+
+  border-bottom: 3px solid #354244;
+}
+
+#portfolio h2 {
+  font: 18px/18px "opensans-bold", sans-serif;
+  margin-bottom: 8px;
+}
+
+#portfolio h4 {
+  font: 14px/14px "opensans-bold", sans-serif;
+  margin-bottom: 24px;
+  width: 80%;
+  margin-left: 10%;
+}
+
+#portfolio ul{
+  font: 12px/12px "josefin sans", sans-serif;
+  letter-spacing: 1px;
+  margin-bottom: 10px;
+  width: 90%;
+  margin-left: 5%;
+  text-align: left;
+  list-style: outside;
+}
+
+#portfolio li{
+  margin-bottom: 16px;
+}
+
+#portfolio .prayers .mobile-only {
+  display: block;
+}
+
+#portfolio .prayers .desktop-only {
+  display: none;
+}
+
+#portfolio .prayers {
+  text-align: left;
+}
+
+#portfolio .summary {
+  margin-bottom: 5px;
+}
+
+#portfolio .description .button {
+  font: 12px/12px "opensans-bold", sans-serif;
+  margin-right: 10px;
+}
+
+#portfolio .description .button:hover {
+  background: #effaff
+}
+
+ #portfolio-wrapper .columns { 
+   margin-bottom: 10px;
+   height: auto;
+  }
 
  /* Testimonials Section
  ----------------------------------------------------------------------- */
