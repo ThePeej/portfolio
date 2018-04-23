@@ -1633,7 +1633,7 @@ ul#nav li.current a {
   text-align: center;
   position: relative;
   height: 700px;
-  min-height: 700px;
+  /* min-height: 700px; */
   width: 100%;
   background: #161415 url(../images/contact-background.jpg) no-repeat center center;
   background-size: cover !important;
@@ -2127,17 +2127,43 @@ footer .social li:first-child {
 
  /* About Section
  -------------------------------------------------------------------- */
- #about .profile-pic { display: none; }
+ #about {
+  padding-top: 30px;
+  padding-bottom: 30px;
+}
+#about .profile-pic {
+  position: relative;
+  width: 150px;
+  height: 150px;
+  margin-bottom: 20px;
+}
+
  #about .download .button {
     width: 100%;
     text-align: center;
-    padding: 15px 20px;
  }
  #about .main-col { padding-right: 30px; }
+
+ #about h1 {
+  font: 30px/30px "permanent marker", cursive;
+  color: #00AFAD;
+  margin-bottom: 18px;
+}
+
+#about p {
+  font: 14px/30px "andika", sans-serif;
+  text-align: center;
+  letter-spacing: 1px;
+  line-height: 30px;
+  color: #dfded5;
+}
 
 
  /* Skills Section
  --------------------------------------------------------------------- */
+ #skills .icon{
+   
+ }
  #skills .header-col {
     padding-top: 0;
     margin-bottom: 48px;
@@ -2172,38 +2198,20 @@ footer .social li:first-child {
 
  /* Testimonials Section
  ----------------------------------------------------------------------- */
- #testimonials .text-container { text-align: center; }
- #testimonials h1 {
-    font: 16px/24px 'opensans-bold', sans-serif;
-    text-align: center;
-    margin-bottom: 30px;
-    text-shadow: 0px 1px 3px rgba(0, 0, 0, 1);
- }
- #testimonials h1 span { display: block; }
- #testimonials .header-col h1:before { content: none; }
- #testimonials blockquote { padding-bottom: 24px; }
- #testimonials blockquote p {
-    font-size: 20px;
-    line-height: 42px;
- }
-
- /* Control Nav */
- .flex-control-nav {
-    text-align: center;
-    margin-left: -30px;
- }
 
 
  /* contact Section
  ----------------------------------------------------------------------- */
  #contact { 
-   padding-bottom: 66px; 
-   background: #ECECEC;
+   padding-top: 0px; 
+   /* padding-bottom: 20px;  */
+   background: #EEEEEF;
+   height: 250px;
   }
  #contact .section-head { margin-bottom: 12px; }
 
- #contact .contact-text h1{
-   font: 20px/30px "opensans-bold", sans-serif;
+ #contact h1{
+   font: 16px/16px "opensans-bold", sans-serif;
  }
 
  #contact .contact-text h2{
@@ -2212,6 +2220,7 @@ footer .social li:first-child {
 
  #contact .contact-text h3{
    font: 10px/20px "opensans-bold", sans-serif;
+   width: 100%;
  }
 
  
@@ -2281,9 +2290,19 @@ footer .social li:first-child {
  -------------------------------------------------------------------- */
  header .banner { padding-top: 24px; }
  header .banner-text h1 {
-    font: 40px/1.1em 'opensans-bold', sans-serif;
-    margin: 0 auto 24px auto;
+    font: 50px/1.1em 'opensans-bold', sans-serif;
+    margin: 0 auto 18px auto;
  }
+
+ header .banner-text h2 {
+  font: 38px/1em "opensans-bold", sans-serif;
+  margin: 0 auto 18px auto;
+}
+
+header .banner-text h2 span,
+header .banner-text h2 a {
+  font-family: "permanent marker";
+}
  header .banner-text h3 {
     font: 14px/1.9em 'librebaskerville-regular', sans-serif;
     width: 90%;
