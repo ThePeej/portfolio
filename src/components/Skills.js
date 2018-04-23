@@ -4,7 +4,7 @@ import Skillbars from "./Skillbars";
 
 const Skills = () => (
   <section id="skills">
-    <Skillbars />
+    {/* <Skillbars /> */}
   </section>
 );
 
