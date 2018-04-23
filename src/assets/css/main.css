@@ -1175,6 +1175,26 @@ ul#nav li.current a {
   margin-top: 6px;
 }
 
+#skills .skill-icons {
+  margin-top: 50px;
+}
+
+#skills .icon {
+  text-align: center;
+}
+
+
+#skills .icon figcaption{
+  font: 16px/16px "opensans-bold", sans-serif;
+  font-weight: bold;
+  margin-top: 10px;
+  margin-bottom: 28px;
+}
+
+#skills .icon svg{
+  height: 100px;
+}
+
 /*----------------------------------------------*/
 /*	Skill Bars
 /*----------------------------------------------*/

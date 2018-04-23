@@ -20,6 +20,8 @@ const TemplateWrapper = ({ children }) => (
       />
       <title>{siteMetadata.title}</title>
       <link rel="icon" href={favicon} type="image/x-icon"/>
+      <link rel="stylesheet" href="https://cdn.rawgit.com/konpa/devicon/df6431e323547add1b4cf45992913f15286456d3/devicon.min.css"/>
+      <link rel="stylesheet" href="devicon-colors.css"/>
     </Helmet>
     {children()}
   </div>
