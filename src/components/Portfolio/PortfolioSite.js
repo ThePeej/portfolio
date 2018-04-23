@@ -8,7 +8,7 @@ const PortfolioSite = () => {
     <div>
       <div className="summary">
         <h2>My Portfolio</h2>
-        <h4>An online tool to tell the world about myself</h4>
+        <h4>An online tool to show the world a little bit about myself</h4>
       </div>
       <div className="columns portfolio-item">
         <a href={PortfolioBanner} target="_blank">

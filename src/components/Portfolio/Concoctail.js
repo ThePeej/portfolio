@@ -20,7 +20,7 @@ const Concoctail = () => {
       <div className="columns portfolio-item description">
         <ul>
           <li>Built using React & Redux to optimize user interface and define user experience</li>
-          <li>Incorporated Materialize CSS framework to design front end</li>
+          <li>Incorporated Materialize CSS framework to style front end</li>
           <li>Utilized Ruby on Rails API backend to persist and provide data</li>
           <li>Designed the database schema and configured ActiveRecord associations</li>
         </ul>

@@ -1,23 +1,13 @@
 {
   "nodes": {
     "SitePage /dev-404-page/": {
-      "layout": "index",
-      "jsonName": "dev-404-page.json",
-      "internalComponentName": "ComponentDev404Page",
       "path": "/dev-404-page/",
-      "component": "/home/pj/Documents/Dev/Portfolio/portfolio/.cache/dev-404-page.js",
-      "componentChunkName": "component---cache-dev-404-page-js",
-      "context": {},
-      "updatedAt": 1524496245681,
-      "pluginCreator___NODE": "Plugin dev-404-page",
-      "pluginCreatorId": "Plugin dev-404-page",
-      "componentPath": "/home/pj/Documents/Dev/Portfolio/portfolio/.cache/dev-404-page.js",
       "id": "SitePage /dev-404-page/",
       "parent": "SOURCE",
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "fb68afb20620480f7b7073f0d6c19ef1",
+        "contentDigest": "f91d29e10ba680b413138cf9ed86e655",
         "owner": "internal-data-bridge"
       }
     },
@@ -1157,16 +1147,14 @@
         "author": "PJ Frias",
         "description": "The portfolio of PJ Frias"
       },
-      "port": "8000",
-      "host": "localhost",
       "pathPrefix": "",
       "polyfill": true,
-      "buildTime": "2018-04-23T15:10:20.431Z",
+      "buildTime": "2018-04-23T18:16:11.037Z",
       "id": "Site",
       "parent": "SOURCE",
       "children": [],
       "internal": {
-        "contentDigest": "24fdc46df4e7698eb7c749f9b628dcd5",
+        "contentDigest": "26769bf79b3e20629b254516b71d4dff",
         "type": "Site",
         "owner": "internal-data-bridge"
       }
@@ -2050,7 +2038,7 @@
       "component": "/home/pj/Documents/Dev/Portfolio/portfolio/src/pages/404.js",
       "componentChunkName": "component---src-pages-404-js",
       "context": {},
-      "updatedAt": 1524496245688,
+      "updatedAt": 1524507372595,
       "pluginCreator___NODE": "Plugin component-page-creator",
       "pluginCreatorId": "Plugin component-page-creator",
       "componentPath": "/home/pj/Documents/Dev/Portfolio/portfolio/src/pages/404.js",
@@ -2059,7 +2047,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "fcf19df403a1028db16a5cceb642841f",
+        "contentDigest": "419ace904806dcc246193ab6e67a3f33",
         "owner": "internal-data-bridge"
       }
     },
@@ -2071,7 +2059,7 @@
       "component": "/home/pj/Documents/Dev/Portfolio/portfolio/src/pages/index.js",
       "componentChunkName": "component---src-pages-index-js",
       "context": {},
-      "updatedAt": 1524496245689,
+      "updatedAt": 1524507372596,
       "pluginCreator___NODE": "Plugin component-page-creator",
       "pluginCreatorId": "Plugin component-page-creator",
       "componentPath": "/home/pj/Documents/Dev/Portfolio/portfolio/src/pages/index.js",
@@ -2080,7 +2068,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "9a8f143e6678e3d97c44d6e690e7f845",
+        "contentDigest": "7b09f70f0435a36c25d95c1aee391750",
         "owner": "internal-data-bridge"
       }
     },
@@ -2092,7 +2080,7 @@
       "component": "/home/pj/Documents/Dev/Portfolio/portfolio/src/pages/404.js",
       "componentChunkName": "component---src-pages-404-js",
       "context": {},
-      "updatedAt": 1524496245691,
+      "updatedAt": 1524507372599,
       "pluginCreator___NODE": "Plugin prod-404",
       "pluginCreatorId": "Plugin prod-404",
       "componentPath": "/home/pj/Documents/Dev/Portfolio/portfolio/src/pages/404.js",
@@ -2101,7 +2089,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "ffd9eca4b4aa813aa0cdb3f2038aa4ce",
+        "contentDigest": "b2ff57cb39d82493e278e7952705925c",
         "owner": "internal-data-bridge"
       }
     }
