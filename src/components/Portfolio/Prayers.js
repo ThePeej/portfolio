@@ -19,7 +19,7 @@ const Prayers = () => {
         <ul>
           <li>RESTful API backend using Ruby on Rails</li>
           <li>ActiveRecord associations and corresponding database schema</li>
-          <li>Bulma framework and custom CSS to design front end</li>
+          <li>Bulma framework and custom CSS to style front end</li>
           <li>AJAX resource fetching and posting to drive user experience</li>
           <li>Devise and Pundit for authentication and authorization</li>
           <li>OMniAuth for OAuth authentication with Facebook</li>

@@ -1,7 +1,7 @@
 import React from "react";
 
 import Skillbars from "./Skillbars";
-import {HTML5, CSS3, Javascript, Ruby, ReactIcon, Node, Bootstrap, Rails, Git, Github, Mocha, Photoshop} from "./Skillicons";
+import {HTML5, CSS3, Javascript, Ruby, ReactIcon, Node, Bootstrap, Rails, Git, MongoDB, Mocha, Photoshop} from "./Skillicons";
 
 const Skills = () => (
   <section id="skills">
@@ -37,16 +37,16 @@ const Skills = () => (
 
         <div className="skill-category">
           <div className="three columns icon">
+            <ReactIcon />
+          </div>
+          <div className="three columns icon">
+            <MongoDB />
+          </div>
+          <div className="three columns icon">
             <Node />
           </div>
           <div className="three columns icon">
             <Rails />
-          </div>
-          <div className="three columns icon">
-            <ReactIcon />
-          </div>
-          <div className="three columns icon">
-            <Bootstrap />
           </div>
         </div>
 
@@ -54,13 +54,13 @@ const Skills = () => (
 
         <div className="skill-category">
           <div className="three columns icon">
-            <Git />
-          </div>
-          <div className="three columns icon">
-            <Github />
+            <Bootstrap />
           </div>
           <div className="three columns icon">
             <Mocha />
+          </div>
+          <div className="three columns icon">
+            <Git />
           </div>
           <div className="three columns icon">
             <Photoshop />

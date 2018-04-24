@@ -2156,6 +2156,7 @@ footer .social li:first-child {
   font: 30px/30px "permanent marker", cursive;
   color: #00AFAD;
   margin-bottom: 18px;
+  text-align: center;
 }
 
 #about p {
