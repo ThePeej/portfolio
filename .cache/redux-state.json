@@ -1149,12 +1149,12 @@
       },
       "pathPrefix": "",
       "polyfill": true,
-      "buildTime": "2018-04-24T14:22:39.602Z",
+      "buildTime": "2018-04-28T22:10:28.823Z",
       "id": "Site",
       "parent": "SOURCE",
       "children": [],
       "internal": {
-        "contentDigest": "c9703e5a2ce96b79f3b728d32d55e293",
+        "contentDigest": "dc656b961301992acf3e416b35093c1c",
         "type": "Site",
         "owner": "internal-data-bridge"
       }
@@ -1164,7 +1164,7 @@
       "children": [],
       "parent": "___SOURCE___",
       "internal": {
-        "contentDigest": "a057c1bdea3f6e687dfc5bb3f5a0092f",
+        "contentDigest": "8059b57a842a507afda734202136c923",
         "type": "Directory",
         "owner": "gatsby-source-filesystem"
       },
@@ -1175,7 +1175,7 @@
       "size": 4096,
       "prettySize": "4.1 kB",
       "modifiedTime": "2018-04-20T18:42:46.656Z",
-      "accessTime": "2018-04-24T12:58:53.913Z",
+      "accessTime": "2018-04-28T21:48:58.466Z",
       "changeTime": "2018-04-20T18:42:46.656Z",
       "birthTime": "2018-04-20T18:42:46.656Z",
       "root": "/",
@@ -1193,11 +1193,11 @@
       "blksize": 4096,
       "ino": 8077604,
       "blocks": 8,
-      "atimeMs": 1524574733913.3293,
+      "atimeMs": 1524952138465.782,
       "mtimeMs": 1524249766655.7544,
       "ctimeMs": 1524249766655.7544,
       "birthtimeMs": 1524249766655.7544,
-      "atime": "2018-04-24T12:58:53.913Z",
+      "atime": "2018-04-28T21:48:58.466Z",
       "mtime": "2018-04-20T18:42:46.656Z",
       "ctime": "2018-04-20T18:42:46.656Z",
       "birthtime": "2018-04-20T18:42:46.656Z"
@@ -2038,7 +2038,7 @@
       "component": "/home/pj/Documents/Dev/Portfolio/portfolio/src/pages/404.js",
       "componentChunkName": "component---src-pages-404-js",
       "context": {},
-      "updatedAt": 1524579784154,
+      "updatedAt": 1524953448156,
       "pluginCreator___NODE": "Plugin component-page-creator",
       "pluginCreatorId": "Plugin component-page-creator",
       "componentPath": "/home/pj/Documents/Dev/Portfolio/portfolio/src/pages/404.js",
@@ -2047,7 +2047,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "ec0eca3083b609e74f735dc6619b2f16",
+        "contentDigest": "f9a0490dc1b8f074554ffe2efa52d10c",
         "owner": "internal-data-bridge"
       }
     },
@@ -2059,7 +2059,7 @@
       "component": "/home/pj/Documents/Dev/Portfolio/portfolio/src/pages/index.js",
       "componentChunkName": "component---src-pages-index-js",
       "context": {},
-      "updatedAt": 1524579784156,
+      "updatedAt": 1524953448158,
       "pluginCreator___NODE": "Plugin component-page-creator",
       "pluginCreatorId": "Plugin component-page-creator",
       "componentPath": "/home/pj/Documents/Dev/Portfolio/portfolio/src/pages/index.js",
@@ -2068,7 +2068,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "bcdae8cb83012f2171d8ac2d41f41d03",
+        "contentDigest": "663f734fedc675ed36248c0d32b0465d",
         "owner": "internal-data-bridge"
       }
     },
@@ -2080,7 +2080,7 @@
       "component": "/home/pj/Documents/Dev/Portfolio/portfolio/src/pages/404.js",
       "componentChunkName": "component---src-pages-404-js",
       "context": {},
-      "updatedAt": 1524579784159,
+      "updatedAt": 1524953448161,
       "pluginCreator___NODE": "Plugin prod-404",
       "pluginCreatorId": "Plugin prod-404",
       "componentPath": "/home/pj/Documents/Dev/Portfolio/portfolio/src/pages/404.js",
@@ -2089,7 +2089,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "d9deb04d1e73a86d0f14a04da6185575",
+        "contentDigest": "873bf49f101a4e3cebd1ccb28ade2082",
         "owner": "internal-data-bridge"
       }
     }

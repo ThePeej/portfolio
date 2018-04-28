@@ -16,7 +16,7 @@ const Skills = () => (
 
       <div className="nine columns main-col">
         <p>
-          Experience in Ruby on Rails, Javascript and Javascript frameworks (React.js, Node.js), databases (sqlite3, MongoDB), and general web-development (HTML, CSS, JQuery, Bootstrap). I'm always excited to learn new technologies to better suit projects and bring ideas to life.
+          Experience in Ruby on Rails, Javascript and Javascript frameworks (React.js, Node.js), databases (SQLite, MongoDB), and general web-development (HTML, CSS, JQuery, Bootstrap). I'm always excited to learn new technologies to better suit projects and bring ideas to life.
         </p>
         <div className="skill-icons">
           <div className="three columns icon">
